@@ -1,0 +1,1600 @@
+zip,year,category_id,category,count,percentage,total_requests
+98001,2025,2,Housing & Shelter,672,30.6%,2198
+98001,2025,3,Food,257,11.7%,2198
+98001,2025,1,Utilities,278,12.6%,2198
+98001,2025,4,Healthcare & COVID-19,114,5.2%,2198
+98001,2025,5,Mental Health & Addictions,34,1.5%,2198
+98001,2025,6,Employment & Income,46,2.1%,2198
+98001,2025,7,Clothing & Household,99,4.5%,2198
+98001,2025,8,Child Care & Parenting,20,<1%,2198
+98001,2025,9,Government & Legal,256,11.6%,2198
+98001,2025,10,Transportation Assistance,80,3.6%,2198
+98001,2025,11,Education,7,<1%,2198
+98001,2025,12,Disaster,80,3.6%,2198
+98001,2025,13,Other,255,11.6%,2198
+98002,2025,2,Housing & Shelter,2411,31.3%,7710
+98002,2025,3,Food,1034,13.4%,7710
+98002,2025,1,Utilities,733,9.5%,7710
+98002,2025,4,Healthcare & COVID-19,264,3.4%,7710
+98002,2025,5,Mental Health & Addictions,107,1.4%,7710
+98002,2025,6,Employment & Income,159,2.1%,7710
+98002,2025,7,Clothing & Household,420,5.4%,7710
+98002,2025,8,Child Care & Parenting,25,<1%,7710
+98002,2025,9,Government & Legal,785,10.2%,7710
+98002,2025,10,Transportation Assistance,209,2.7%,7710
+98002,2025,11,Education,30,<1%,7710
+98002,2025,12,Disaster,526,6.8%,7710
+98002,2025,13,Other,1007,13.1%,7710
+98003,2025,2,Housing & Shelter,2511,31.2%,8038
+98003,2025,3,Food,1093,13.6%,8038
+98003,2025,1,Utilities,942,11.7%,8038
+98003,2025,4,Healthcare & COVID-19,311,3.9%,8038
+98003,2025,5,Mental Health & Addictions,141,1.8%,8038
+98003,2025,6,Employment & Income,150,1.9%,8038
+98003,2025,7,Clothing & Household,341,4.2%,8038
+98003,2025,8,Child Care & Parenting,45,<1%,8038
+98003,2025,9,Government & Legal,923,11.5%,8038
+98003,2025,10,Transportation Assistance,284,3.5%,8038
+98003,2025,11,Education,29,<1%,8038
+98003,2025,12,Disaster,318,4.0%,8038
+98003,2025,13,Other,950,11.8%,8038
+98004,2025,2,Housing & Shelter,416,29.1%,1432
+98004,2025,3,Food,155,10.8%,1432
+98004,2025,1,Utilities,137,9.6%,1432
+98004,2025,4,Healthcare & COVID-19,91,6.4%,1432
+98004,2025,5,Mental Health & Addictions,24,1.7%,1432
+98004,2025,6,Employment & Income,40,2.8%,1432
+98004,2025,7,Clothing & Household,48,3.4%,1432
+98004,2025,8,Child Care & Parenting,11,<1%,1432
+98004,2025,9,Government & Legal,187,13.1%,1432
+98004,2025,10,Transportation Assistance,42,2.9%,1432
+98004,2025,11,Education,10,<1%,1432
+98004,2025,12,Disaster,45,3.1%,1432
+98004,2025,13,Other,226,15.8%,1432
+98005,2025,2,Housing & Shelter,327,27.0%,1211
+98005,2025,3,Food,141,11.6%,1211
+98005,2025,1,Utilities,100,8.3%,1211
+98005,2025,4,Healthcare & COVID-19,94,7.8%,1211
+98005,2025,5,Mental Health & Addictions,29,2.4%,1211
+98005,2025,6,Employment & Income,25,2.1%,1211
+98005,2025,7,Clothing & Household,46,3.8%,1211
+98005,2025,8,Child Care & Parenting,8,<1%,1211
+98005,2025,9,Government & Legal,188,15.5%,1211
+98005,2025,10,Transportation Assistance,54,4.5%,1211
+98005,2025,11,Education,8,<1%,1211
+98005,2025,12,Disaster,37,3.1%,1211
+98005,2025,13,Other,154,12.7%,1211
+98006,2025,2,Housing & Shelter,276,26.5%,1042
+98006,2025,3,Food,142,13.6%,1042
+98006,2025,1,Utilities,91,8.7%,1042
+98006,2025,4,Healthcare & COVID-19,53,5.1%,1042
+98006,2025,5,Mental Health & Addictions,24,2.3%,1042
+98006,2025,6,Employment & Income,25,2.4%,1042
+98006,2025,7,Clothing & Household,45,4.3%,1042
+98006,2025,8,Child Care & Parenting,5,<1%,1042
+98006,2025,9,Government & Legal,165,15.8%,1042
+98006,2025,10,Transportation Assistance,43,4.1%,1042
+98006,2025,11,Education,5,<1%,1042
+98006,2025,12,Disaster,39,3.7%,1042
+98006,2025,13,Other,129,12.4%,1042
+98007,2025,2,Housing & Shelter,442,29.5%,1499
+98007,2025,3,Food,207,13.8%,1499
+98007,2025,1,Utilities,135,9.0%,1499
+98007,2025,4,Healthcare & COVID-19,62,4.1%,1499
+98007,2025,5,Mental Health & Addictions,28,1.9%,1499
+98007,2025,6,Employment & Income,39,2.6%,1499
+98007,2025,7,Clothing & Household,33,2.2%,1499
+98007,2025,8,Child Care & Parenting,19,1.3%,1499
+98007,2025,9,Government & Legal,259,17.3%,1499
+98007,2025,10,Transportation Assistance,60,4.0%,1499
+98007,2025,11,Education,4,<1%,1499
+98007,2025,12,Disaster,44,2.9%,1499
+98007,2025,13,Other,167,11.1%,1499
+98008,2025,2,Housing & Shelter,136,24.2%,563
+98008,2025,3,Food,41,7.3%,563
+98008,2025,1,Utilities,47,8.3%,563
+98008,2025,4,Healthcare & COVID-19,41,7.3%,563
+98008,2025,5,Mental Health & Addictions,23,4.1%,563
+98008,2025,6,Employment & Income,16,2.8%,563
+98008,2025,7,Clothing & Household,7,1.2%,563
+98008,2025,8,Child Care & Parenting,7,1.2%,563
+98008,2025,9,Government & Legal,111,19.7%,563
+98008,2025,10,Transportation Assistance,24,4.3%,563
+98008,2025,11,Education,3,<1%,563
+98008,2025,12,Disaster,20,3.6%,563
+98008,2025,13,Other,87,15.5%,563
+98009,2025,2,Housing & Shelter,8,21.1%,38
+98009,2025,3,Food,6,15.8%,38
+98009,2025,1,Utilities,2,5.3%,38
+98009,2025,4,Healthcare & COVID-19,1,2.6%,38
+98009,2025,5,Mental Health & Addictions,1,2.6%,38
+98009,2025,6,Employment & Income,0,0%,38
+98009,2025,7,Clothing & Household,0,0%,38
+98009,2025,8,Child Care & Parenting,0,0%,38
+98009,2025,9,Government & Legal,10,26.3%,38
+98009,2025,10,Transportation Assistance,1,2.6%,38
+98009,2025,11,Education,0,0%,38
+98009,2025,12,Disaster,2,5.3%,38
+98009,2025,13,Other,7,18.4%,38
+98010,2025,2,Housing & Shelter,30,28.6%,105
+98010,2025,3,Food,15,14.3%,105
+98010,2025,1,Utilities,10,9.5%,105
+98010,2025,4,Healthcare & COVID-19,5,4.8%,105
+98010,2025,5,Mental Health & Addictions,2,1.9%,105
+98010,2025,6,Employment & Income,3,2.9%,105
+98010,2025,7,Clothing & Household,1,<1%,105
+98010,2025,8,Child Care & Parenting,0,0%,105
+98010,2025,9,Government & Legal,20,19.0%,105
+98010,2025,10,Transportation Assistance,5,4.8%,105
+98010,2025,11,Education,0,0%,105
+98010,2025,12,Disaster,1,<1%,105
+98010,2025,13,Other,13,12.4%,105
+98011,2025,2,Housing & Shelter,248,22.3%,1111
+98011,2025,3,Food,138,12.4%,1111
+98011,2025,1,Utilities,94,8.5%,1111
+98011,2025,4,Healthcare & COVID-19,60,5.4%,1111
+98011,2025,5,Mental Health & Addictions,23,2.1%,1111
+98011,2025,6,Employment & Income,42,3.8%,1111
+98011,2025,7,Clothing & Household,26,2.3%,1111
+98011,2025,8,Child Care & Parenting,12,1.1%,1111
+98011,2025,9,Government & Legal,194,17.5%,1111
+98011,2025,10,Transportation Assistance,46,4.1%,1111
+98011,2025,11,Education,6,<1%,1111
+98011,2025,12,Disaster,48,4.3%,1111
+98011,2025,13,Other,174,15.7%,1111
+98013,2025,2,Housing & Shelter,1,50.0%,2
+98013,2025,3,Food,0,0%,2
+98013,2025,1,Utilities,1,50.0%,2
+98013,2025,4,Healthcare & COVID-19,0,0%,2
+98013,2025,5,Mental Health & Addictions,0,0%,2
+98013,2025,6,Employment & Income,0,0%,2
+98013,2025,7,Clothing & Household,0,0%,2
+98013,2025,8,Child Care & Parenting,0,0%,2
+98013,2025,9,Government & Legal,0,0%,2
+98013,2025,10,Transportation Assistance,0,0%,2
+98013,2025,11,Education,0,0%,2
+98013,2025,12,Disaster,0,0%,2
+98013,2025,13,Other,0,0%,2
+98014,2025,2,Housing & Shelter,57,29.1%,196
+98014,2025,3,Food,10,5.1%,196
+98014,2025,1,Utilities,28,14.3%,196
+98014,2025,4,Healthcare & COVID-19,19,9.7%,196
+98014,2025,5,Mental Health & Addictions,6,3.1%,196
+98014,2025,6,Employment & Income,5,2.6%,196
+98014,2025,7,Clothing & Household,6,3.1%,196
+98014,2025,8,Child Care & Parenting,2,1.0%,196
+98014,2025,9,Government & Legal,22,11.2%,196
+98014,2025,10,Transportation Assistance,5,2.6%,196
+98014,2025,11,Education,2,1.0%,196
+98014,2025,12,Disaster,6,3.1%,196
+98014,2025,13,Other,28,14.3%,196
+98015,2025,2,Housing & Shelter,0,0%,4
+98015,2025,3,Food,0,0%,4
+98015,2025,1,Utilities,0,0%,4
+98015,2025,4,Healthcare & COVID-19,1,25.0%,4
+98015,2025,5,Mental Health & Addictions,0,0%,4
+98015,2025,6,Employment & Income,0,0%,4
+98015,2025,7,Clothing & Household,0,0%,4
+98015,2025,8,Child Care & Parenting,0,0%,4
+98015,2025,9,Government & Legal,0,0%,4
+98015,2025,10,Transportation Assistance,0,0%,4
+98015,2025,11,Education,0,0%,4
+98015,2025,12,Disaster,0,0%,4
+98015,2025,13,Other,3,75.0%,4
+98019,2025,2,Housing & Shelter,63,22.0%,286
+98019,2025,3,Food,46,16.1%,286
+98019,2025,1,Utilities,35,12.2%,286
+98019,2025,4,Healthcare & COVID-19,15,5.2%,286
+98019,2025,5,Mental Health & Addictions,2,<1%,286
+98019,2025,6,Employment & Income,6,2.1%,286
+98019,2025,7,Clothing & Household,8,2.8%,286
+98019,2025,8,Child Care & Parenting,4,1.4%,286
+98019,2025,9,Government & Legal,30,10.5%,286
+98019,2025,10,Transportation Assistance,10,3.5%,286
+98019,2025,11,Education,1,<1%,286
+98019,2025,12,Disaster,12,4.2%,286
+98019,2025,13,Other,54,18.9%,286
+98022,2025,2,Housing & Shelter,134,26.7%,501
+98022,2025,3,Food,45,9.0%,501
+98022,2025,1,Utilities,53,10.6%,501
+98022,2025,4,Healthcare & COVID-19,29,5.8%,501
+98022,2025,5,Mental Health & Addictions,14,2.8%,501
+98022,2025,6,Employment & Income,17,3.4%,501
+98022,2025,7,Clothing & Household,5,<1%,501
+98022,2025,8,Child Care & Parenting,1,<1%,501
+98022,2025,9,Government & Legal,100,20.0%,501
+98022,2025,10,Transportation Assistance,17,3.4%,501
+98022,2025,11,Education,0,0%,501
+98022,2025,12,Disaster,19,3.8%,501
+98022,2025,13,Other,67,13.4%,501
+98023,2025,2,Housing & Shelter,1332,30.4%,4386
+98023,2025,3,Food,613,14.0%,4386
+98023,2025,1,Utilities,563,12.8%,4386
+98023,2025,4,Healthcare & COVID-19,179,4.1%,4386
+98023,2025,5,Mental Health & Addictions,66,1.5%,4386
+98023,2025,6,Employment & Income,127,2.9%,4386
+98023,2025,7,Clothing & Household,144,3.3%,4386
+98023,2025,8,Child Care & Parenting,26,<1%,4386
+98023,2025,9,Government & Legal,512,11.7%,4386
+98023,2025,10,Transportation Assistance,131,3.0%,4386
+98023,2025,11,Education,20,<1%,4386
+98023,2025,12,Disaster,183,4.2%,4386
+98023,2025,13,Other,490,11.2%,4386
+98024,2025,2,Housing & Shelter,14,18.4%,76
+98024,2025,3,Food,11,14.5%,76
+98024,2025,1,Utilities,12,15.8%,76
+98024,2025,4,Healthcare & COVID-19,2,2.6%,76
+98024,2025,5,Mental Health & Addictions,1,1.3%,76
+98024,2025,6,Employment & Income,2,2.6%,76
+98024,2025,7,Clothing & Household,5,6.6%,76
+98024,2025,8,Child Care & Parenting,1,1.3%,76
+98024,2025,9,Government & Legal,5,6.6%,76
+98024,2025,10,Transportation Assistance,8,10.5%,76
+98024,2025,11,Education,0,0%,76
+98024,2025,12,Disaster,6,7.9%,76
+98024,2025,13,Other,9,11.8%,76
+98025,2025,2,Housing & Shelter,2,40.0%,5
+98025,2025,3,Food,0,0%,5
+98025,2025,1,Utilities,0,0%,5
+98025,2025,4,Healthcare & COVID-19,0,0%,5
+98025,2025,5,Mental Health & Addictions,0,0%,5
+98025,2025,6,Employment & Income,0,0%,5
+98025,2025,7,Clothing & Household,0,0%,5
+98025,2025,8,Child Care & Parenting,0,0%,5
+98025,2025,9,Government & Legal,1,20.0%,5
+98025,2025,10,Transportation Assistance,0,0%,5
+98025,2025,11,Education,0,0%,5
+98025,2025,12,Disaster,0,0%,5
+98025,2025,13,Other,2,40.0%,5
+98027,2025,2,Housing & Shelter,265,27.8%,952
+98027,2025,3,Food,119,12.5%,952
+98027,2025,1,Utilities,70,7.4%,952
+98027,2025,4,Healthcare & COVID-19,71,7.5%,952
+98027,2025,5,Mental Health & Addictions,15,1.6%,952
+98027,2025,6,Employment & Income,12,1.3%,952
+98027,2025,7,Clothing & Household,26,2.7%,952
+98027,2025,8,Child Care & Parenting,6,<1%,952
+98027,2025,9,Government & Legal,125,13.1%,952
+98027,2025,10,Transportation Assistance,49,5.1%,952
+98027,2025,11,Education,4,<1%,952
+98027,2025,12,Disaster,49,5.1%,952
+98027,2025,13,Other,141,14.8%,952
+98028,2025,2,Housing & Shelter,158,23.9%,660
+98028,2025,3,Food,86,13.0%,660
+98028,2025,1,Utilities,43,6.5%,660
+98028,2025,4,Healthcare & COVID-19,40,6.1%,660
+98028,2025,5,Mental Health & Addictions,20,3.0%,660
+98028,2025,6,Employment & Income,25,3.8%,660
+98028,2025,7,Clothing & Household,19,2.9%,660
+98028,2025,8,Child Care & Parenting,10,1.5%,660
+98028,2025,9,Government & Legal,127,19.2%,660
+98028,2025,10,Transportation Assistance,25,3.8%,660
+98028,2025,11,Education,1,<1%,660
+98028,2025,12,Disaster,21,3.2%,660
+98028,2025,13,Other,85,12.9%,660
+98029,2025,2,Housing & Shelter,272,26.5%,1027
+98029,2025,3,Food,122,11.9%,1027
+98029,2025,1,Utilities,86,8.4%,1027
+98029,2025,4,Healthcare & COVID-19,46,4.5%,1027
+98029,2025,5,Mental Health & Addictions,27,2.6%,1027
+98029,2025,6,Employment & Income,17,1.7%,1027
+98029,2025,7,Clothing & Household,50,4.9%,1027
+98029,2025,8,Child Care & Parenting,8,<1%,1027
+98029,2025,9,Government & Legal,179,17.4%,1027
+98029,2025,10,Transportation Assistance,36,3.5%,1027
+98029,2025,11,Education,5,<1%,1027
+98029,2025,12,Disaster,45,4.4%,1027
+98029,2025,13,Other,134,13.0%,1027
+98030,2025,2,Housing & Shelter,1180,31.3%,3774
+98030,2025,3,Food,463,12.3%,3774
+98030,2025,1,Utilities,484,12.8%,3774
+98030,2025,4,Healthcare & COVID-19,136,3.6%,3774
+98030,2025,5,Mental Health & Addictions,62,1.6%,3774
+98030,2025,6,Employment & Income,84,2.2%,3774
+98030,2025,7,Clothing & Household,140,3.7%,3774
+98030,2025,8,Child Care & Parenting,27,<1%,3774
+98030,2025,9,Government & Legal,495,13.1%,3774
+98030,2025,10,Transportation Assistance,145,3.8%,3774
+98030,2025,11,Education,9,<1%,3774
+98030,2025,12,Disaster,137,3.6%,3774
+98030,2025,13,Other,412,10.9%,3774
+98031,2025,2,Housing & Shelter,1012,31.1%,3251
+98031,2025,3,Food,465,14.3%,3251
+98031,2025,1,Utilities,385,11.8%,3251
+98031,2025,4,Healthcare & COVID-19,122,3.8%,3251
+98031,2025,5,Mental Health & Addictions,51,1.6%,3251
+98031,2025,6,Employment & Income,91,2.8%,3251
+98031,2025,7,Clothing & Household,113,3.5%,3251
+98031,2025,8,Child Care & Parenting,16,<1%,3251
+98031,2025,9,Government & Legal,384,11.8%,3251
+98031,2025,10,Transportation Assistance,111,3.4%,3251
+98031,2025,11,Education,13,<1%,3251
+98031,2025,12,Disaster,111,3.4%,3251
+98031,2025,13,Other,377,11.6%,3251
+98032,2025,2,Housing & Shelter,2011,32.2%,6254
+98032,2025,3,Food,854,13.7%,6254
+98032,2025,1,Utilities,674,10.8%,6254
+98032,2025,4,Healthcare & COVID-19,231,3.7%,6254
+98032,2025,5,Mental Health & Addictions,90,1.4%,6254
+98032,2025,6,Employment & Income,149,2.4%,6254
+98032,2025,7,Clothing & Household,211,3.4%,6254
+98032,2025,8,Child Care & Parenting,51,<1%,6254
+98032,2025,9,Government & Legal,705,11.3%,6254
+98032,2025,10,Transportation Assistance,223,3.6%,6254
+98032,2025,11,Education,14,<1%,6254
+98032,2025,12,Disaster,240,3.8%,6254
+98032,2025,13,Other,801,12.8%,6254
+98033,2025,2,Housing & Shelter,290,26.1%,1111
+98033,2025,3,Food,131,11.8%,1111
+98033,2025,1,Utilities,103,9.3%,1111
+98033,2025,4,Healthcare & COVID-19,43,3.9%,1111
+98033,2025,5,Mental Health & Addictions,24,2.2%,1111
+98033,2025,6,Employment & Income,30,2.7%,1111
+98033,2025,7,Clothing & Household,36,3.2%,1111
+98033,2025,8,Child Care & Parenting,9,<1%,1111
+98033,2025,9,Government & Legal,175,15.8%,1111
+98033,2025,10,Transportation Assistance,69,6.2%,1111
+98033,2025,11,Education,6,<1%,1111
+98033,2025,12,Disaster,48,4.3%,1111
+98033,2025,13,Other,147,13.2%,1111
+98034,2025,2,Housing & Shelter,682,27.4%,2488
+98034,2025,3,Food,289,11.6%,2488
+98034,2025,1,Utilities,254,10.2%,2488
+98034,2025,4,Healthcare & COVID-19,111,4.5%,2488
+98034,2025,5,Mental Health & Addictions,35,1.4%,2488
+98034,2025,6,Employment & Income,74,3.0%,2488
+98034,2025,7,Clothing & Household,61,2.5%,2488
+98034,2025,8,Child Care & Parenting,26,1.0%,2488
+98034,2025,9,Government & Legal,401,16.1%,2488
+98034,2025,10,Transportation Assistance,102,4.1%,2488
+98034,2025,11,Education,4,<1%,2488
+98034,2025,12,Disaster,94,3.8%,2488
+98034,2025,13,Other,355,14.3%,2488
+98035,2025,2,Housing & Shelter,5,41.7%,12
+98035,2025,3,Food,3,25.0%,12
+98035,2025,1,Utilities,1,8.3%,12
+98035,2025,4,Healthcare & COVID-19,2,16.7%,12
+98035,2025,5,Mental Health & Addictions,0,0%,12
+98035,2025,6,Employment & Income,0,0%,12
+98035,2025,7,Clothing & Household,0,0%,12
+98035,2025,8,Child Care & Parenting,0,0%,12
+98035,2025,9,Government & Legal,1,8.3%,12
+98035,2025,10,Transportation Assistance,0,0%,12
+98035,2025,11,Education,0,0%,12
+98035,2025,12,Disaster,0,0%,12
+98035,2025,13,Other,0,0%,12
+98038,2025,2,Housing & Shelter,289,27.1%,1068
+98038,2025,3,Food,119,11.1%,1068
+98038,2025,1,Utilities,100,9.4%,1068
+98038,2025,4,Healthcare & COVID-19,71,6.6%,1068
+98038,2025,5,Mental Health & Addictions,26,2.4%,1068
+98038,2025,6,Employment & Income,24,2.2%,1068
+98038,2025,7,Clothing & Household,35,3.3%,1068
+98038,2025,8,Child Care & Parenting,10,<1%,1068
+98038,2025,9,Government & Legal,172,16.1%,1068
+98038,2025,10,Transportation Assistance,34,3.2%,1068
+98038,2025,11,Education,3,<1%,1068
+98038,2025,12,Disaster,43,4.0%,1068
+98038,2025,13,Other,142,13.3%,1068
+98039,2025,2,Housing & Shelter,8,26.7%,30
+98039,2025,3,Food,6,20.0%,30
+98039,2025,1,Utilities,5,16.7%,30
+98039,2025,4,Healthcare & COVID-19,0,0%,30
+98039,2025,5,Mental Health & Addictions,0,0%,30
+98039,2025,6,Employment & Income,0,0%,30
+98039,2025,7,Clothing & Household,0,0%,30
+98039,2025,8,Child Care & Parenting,0,0%,30
+98039,2025,9,Government & Legal,5,16.7%,30
+98039,2025,10,Transportation Assistance,0,0%,30
+98039,2025,11,Education,0,0%,30
+98039,2025,12,Disaster,0,0%,30
+98039,2025,13,Other,6,20.0%,30
+98040,2025,2,Housing & Shelter,65,25.5%,255
+98040,2025,3,Food,23,9.0%,255
+98040,2025,1,Utilities,28,11.0%,255
+98040,2025,4,Healthcare & COVID-19,17,6.7%,255
+98040,2025,5,Mental Health & Addictions,5,2.0%,255
+98040,2025,6,Employment & Income,5,2.0%,255
+98040,2025,7,Clothing & Household,6,2.4%,255
+98040,2025,8,Child Care & Parenting,2,<1%,255
+98040,2025,9,Government & Legal,30,11.8%,255
+98040,2025,10,Transportation Assistance,15,5.9%,255
+98040,2025,11,Education,4,1.6%,255
+98040,2025,12,Disaster,6,2.4%,255
+98040,2025,13,Other,49,19.2%,255
+98041,2025,2,Housing & Shelter,0,0%,2
+98041,2025,3,Food,0,0%,2
+98041,2025,1,Utilities,0,0%,2
+98041,2025,4,Healthcare & COVID-19,0,0%,2
+98041,2025,5,Mental Health & Addictions,0,0%,2
+98041,2025,6,Employment & Income,0,0%,2
+98041,2025,7,Clothing & Household,0,0%,2
+98041,2025,8,Child Care & Parenting,0,0%,2
+98041,2025,9,Government & Legal,2,100.0%,2
+98041,2025,10,Transportation Assistance,0,0%,2
+98041,2025,11,Education,0,0%,2
+98041,2025,12,Disaster,0,0%,2
+98041,2025,13,Other,0,0%,2
+98042,2025,2,Housing & Shelter,574,28.6%,2007
+98042,2025,3,Food,268,13.4%,2007
+98042,2025,1,Utilities,227,11.3%,2007
+98042,2025,4,Healthcare & COVID-19,121,6.0%,2007
+98042,2025,5,Mental Health & Addictions,30,1.5%,2007
+98042,2025,6,Employment & Income,66,3.3%,2007
+98042,2025,7,Clothing & Household,39,1.9%,2007
+98042,2025,8,Child Care & Parenting,22,1.1%,2007
+98042,2025,9,Government & Legal,271,13.5%,2007
+98042,2025,10,Transportation Assistance,93,4.6%,2007
+98042,2025,11,Education,11,<1%,2007
+98042,2025,12,Disaster,75,3.7%,2007
+98042,2025,13,Other,210,10.5%,2007
+98045,2025,2,Housing & Shelter,110,27.4%,402
+98045,2025,3,Food,45,11.2%,402
+98045,2025,1,Utilities,29,7.2%,402
+98045,2025,4,Healthcare & COVID-19,32,8.0%,402
+98045,2025,5,Mental Health & Addictions,7,1.7%,402
+98045,2025,6,Employment & Income,12,3.0%,402
+98045,2025,7,Clothing & Household,5,1.2%,402
+98045,2025,8,Child Care & Parenting,2,<1%,402
+98045,2025,9,Government & Legal,68,16.9%,402
+98045,2025,10,Transportation Assistance,18,4.5%,402
+98045,2025,11,Education,0,0%,402
+98045,2025,12,Disaster,10,2.5%,402
+98045,2025,13,Other,64,15.9%,402
+98047,2025,2,Housing & Shelter,241,30.6%,788
+98047,2025,3,Food,114,14.5%,788
+98047,2025,1,Utilities,76,9.6%,788
+98047,2025,4,Healthcare & COVID-19,22,2.8%,788
+98047,2025,5,Mental Health & Addictions,9,1.1%,788
+98047,2025,6,Employment & Income,11,1.4%,788
+98047,2025,7,Clothing & Household,42,5.3%,788
+98047,2025,8,Child Care & Parenting,3,<1%,788
+98047,2025,9,Government & Legal,92,11.7%,788
+98047,2025,10,Transportation Assistance,25,3.2%,788
+98047,2025,11,Education,1,<1%,788
+98047,2025,12,Disaster,62,7.9%,788
+98047,2025,13,Other,90,11.4%,788
+98050,2025,2,Housing & Shelter,2,15.4%,13
+98050,2025,3,Food,1,7.7%,13
+98050,2025,1,Utilities,1,7.7%,13
+98050,2025,4,Healthcare & COVID-19,2,15.4%,13
+98050,2025,5,Mental Health & Addictions,0,0%,13
+98050,2025,6,Employment & Income,2,15.4%,13
+98050,2025,7,Clothing & Household,0,0%,13
+98050,2025,8,Child Care & Parenting,0,0%,13
+98050,2025,9,Government & Legal,1,7.7%,13
+98050,2025,10,Transportation Assistance,0,0%,13
+98050,2025,11,Education,0,0%,13
+98050,2025,12,Disaster,2,15.4%,13
+98050,2025,13,Other,2,15.4%,13
+98051,2025,2,Housing & Shelter,13,17.3%,75
+98051,2025,3,Food,9,12.0%,75
+98051,2025,1,Utilities,8,10.7%,75
+98051,2025,4,Healthcare & COVID-19,10,13.3%,75
+98051,2025,5,Mental Health & Addictions,2,2.7%,75
+98051,2025,6,Employment & Income,3,4.0%,75
+98051,2025,7,Clothing & Household,4,5.3%,75
+98051,2025,8,Child Care & Parenting,2,2.7%,75
+98051,2025,9,Government & Legal,8,10.7%,75
+98051,2025,10,Transportation Assistance,5,6.7%,75
+98051,2025,11,Education,0,0%,75
+98051,2025,12,Disaster,0,0%,75
+98051,2025,13,Other,11,14.7%,75
+98052,2025,2,Housing & Shelter,729,26.2%,2784
+98052,2025,3,Food,315,11.3%,2784
+98052,2025,1,Utilities,261,9.4%,2784
+98052,2025,4,Healthcare & COVID-19,174,6.3%,2784
+98052,2025,5,Mental Health & Addictions,59,2.1%,2784
+98052,2025,6,Employment & Income,76,2.7%,2784
+98052,2025,7,Clothing & Household,77,2.8%,2784
+98052,2025,8,Child Care & Parenting,15,<1%,2784
+98052,2025,9,Government & Legal,505,18.1%,2784
+98052,2025,10,Transportation Assistance,122,4.4%,2784
+98052,2025,11,Education,10,<1%,2784
+98052,2025,12,Disaster,103,3.7%,2784
+98052,2025,13,Other,338,12.1%,2784
+98053,2025,2,Housing & Shelter,109,21.4%,509
+98053,2025,3,Food,46,9.0%,509
+98053,2025,1,Utilities,51,10.0%,509
+98053,2025,4,Healthcare & COVID-19,48,9.4%,509
+98053,2025,5,Mental Health & Addictions,11,2.2%,509
+98053,2025,6,Employment & Income,10,2.0%,509
+98053,2025,7,Clothing & Household,11,2.2%,509
+98053,2025,8,Child Care & Parenting,6,1.2%,509
+98053,2025,9,Government & Legal,99,19.4%,509
+98053,2025,10,Transportation Assistance,24,4.7%,509
+98053,2025,11,Education,1,<1%,509
+98053,2025,12,Disaster,17,3.3%,509
+98053,2025,13,Other,76,14.9%,509
+98055,2025,2,Housing & Shelter,645,31.3%,2061
+98055,2025,3,Food,269,13.1%,2061
+98055,2025,1,Utilities,223,10.8%,2061
+98055,2025,4,Healthcare & COVID-19,81,3.9%,2061
+98055,2025,5,Mental Health & Addictions,32,1.6%,2061
+98055,2025,6,Employment & Income,54,2.6%,2061
+98055,2025,7,Clothing & Household,52,2.5%,2061
+98055,2025,8,Child Care & Parenting,26,1.3%,2061
+98055,2025,9,Government & Legal,286,13.9%,2061
+98055,2025,10,Transportation Assistance,67,3.3%,2061
+98055,2025,11,Education,14,<1%,2061
+98055,2025,12,Disaster,70,3.4%,2061
+98055,2025,13,Other,242,11.7%,2061
+98056,2025,2,Housing & Shelter,684,27.8%,2462
+98056,2025,3,Food,318,12.9%,2462
+98056,2025,1,Utilities,272,11.0%,2462
+98056,2025,4,Healthcare & COVID-19,121,4.9%,2462
+98056,2025,5,Mental Health & Addictions,38,1.5%,2462
+98056,2025,6,Employment & Income,55,2.2%,2462
+98056,2025,7,Clothing & Household,133,5.4%,2462
+98056,2025,8,Child Care & Parenting,20,<1%,2462
+98056,2025,9,Government & Legal,340,13.8%,2462
+98056,2025,10,Transportation Assistance,82,3.3%,2462
+98056,2025,11,Education,10,<1%,2462
+98056,2025,12,Disaster,76,3.1%,2462
+98056,2025,13,Other,313,12.7%,2462
+98057,2025,2,Housing & Shelter,763,30.4%,2509
+98057,2025,3,Food,366,14.6%,2509
+98057,2025,1,Utilities,254,10.1%,2509
+98057,2025,4,Healthcare & COVID-19,105,4.2%,2509
+98057,2025,5,Mental Health & Addictions,48,1.9%,2509
+98057,2025,6,Employment & Income,68,2.7%,2509
+98057,2025,7,Clothing & Household,88,3.5%,2509
+98057,2025,8,Child Care & Parenting,17,<1%,2509
+98057,2025,9,Government & Legal,308,12.3%,2509
+98057,2025,10,Transportation Assistance,95,3.8%,2509
+98057,2025,11,Education,5,<1%,2509
+98057,2025,12,Disaster,115,4.6%,2509
+98057,2025,13,Other,277,11.0%,2509
+98058,2025,2,Housing & Shelter,756,29.5%,2563
+98058,2025,3,Food,303,11.8%,2563
+98058,2025,1,Utilities,318,12.4%,2563
+98058,2025,4,Healthcare & COVID-19,101,3.9%,2563
+98058,2025,5,Mental Health & Addictions,57,2.2%,2563
+98058,2025,6,Employment & Income,54,2.1%,2563
+98058,2025,7,Clothing & Household,56,2.2%,2563
+98058,2025,8,Child Care & Parenting,26,1.0%,2563
+98058,2025,9,Government & Legal,363,14.2%,2563
+98058,2025,10,Transportation Assistance,78,3.0%,2563
+98058,2025,11,Education,18,<1%,2563
+98058,2025,12,Disaster,83,3.2%,2563
+98058,2025,13,Other,350,13.7%,2563
+98059,2025,2,Housing & Shelter,335,24.8%,1350
+98059,2025,3,Food,170,12.6%,1350
+98059,2025,1,Utilities,139,10.3%,1350
+98059,2025,4,Healthcare & COVID-19,80,5.9%,1350
+98059,2025,5,Mental Health & Addictions,30,2.2%,1350
+98059,2025,6,Employment & Income,28,2.1%,1350
+98059,2025,7,Clothing & Household,47,3.5%,1350
+98059,2025,8,Child Care & Parenting,15,1.1%,1350
+98059,2025,9,Government & Legal,226,16.7%,1350
+98059,2025,10,Transportation Assistance,59,4.4%,1350
+98059,2025,11,Education,5,<1%,1350
+98059,2025,12,Disaster,51,3.8%,1350
+98059,2025,13,Other,165,12.2%,1350
+98062,2025,2,Housing & Shelter,1,50.0%,2
+98062,2025,3,Food,1,50.0%,2
+98062,2025,1,Utilities,0,0%,2
+98062,2025,4,Healthcare & COVID-19,0,0%,2
+98062,2025,5,Mental Health & Addictions,0,0%,2
+98062,2025,6,Employment & Income,0,0%,2
+98062,2025,7,Clothing & Household,0,0%,2
+98062,2025,8,Child Care & Parenting,0,0%,2
+98062,2025,9,Government & Legal,0,0%,2
+98062,2025,10,Transportation Assistance,0,0%,2
+98062,2025,11,Education,0,0%,2
+98062,2025,12,Disaster,0,0%,2
+98062,2025,13,Other,0,0%,2
+98064,2025,2,Housing & Shelter,1,7.7%,13
+98064,2025,3,Food,2,15.4%,13
+98064,2025,1,Utilities,0,0%,13
+98064,2025,4,Healthcare & COVID-19,0,0%,13
+98064,2025,5,Mental Health & Addictions,0,0%,13
+98064,2025,6,Employment & Income,1,7.7%,13
+98064,2025,7,Clothing & Household,0,0%,13
+98064,2025,8,Child Care & Parenting,0,0%,13
+98064,2025,9,Government & Legal,3,23.1%,13
+98064,2025,10,Transportation Assistance,2,15.4%,13
+98064,2025,11,Education,0,0%,13
+98064,2025,12,Disaster,1,7.7%,13
+98064,2025,13,Other,3,23.1%,13
+98065,2025,2,Housing & Shelter,92,21.7%,423
+98065,2025,3,Food,50,11.8%,423
+98065,2025,1,Utilities,46,10.9%,423
+98065,2025,4,Healthcare & COVID-19,21,5.0%,423
+98065,2025,5,Mental Health & Addictions,10,2.4%,423
+98065,2025,6,Employment & Income,9,2.1%,423
+98065,2025,7,Clothing & Household,9,2.1%,423
+98065,2025,8,Child Care & Parenting,0,0%,423
+98065,2025,9,Government & Legal,80,18.9%,423
+98065,2025,10,Transportation Assistance,20,4.7%,423
+98065,2025,11,Education,3,<1%,423
+98065,2025,12,Disaster,22,5.2%,423
+98065,2025,13,Other,61,14.4%,423
+98068,2025,2,Housing & Shelter,1,14.3%,7
+98068,2025,3,Food,1,14.3%,7
+98068,2025,1,Utilities,0,0%,7
+98068,2025,4,Healthcare & COVID-19,0,0%,7
+98068,2025,5,Mental Health & Addictions,0,0%,7
+98068,2025,6,Employment & Income,0,0%,7
+98068,2025,7,Clothing & Household,0,0%,7
+98068,2025,8,Child Care & Parenting,0,0%,7
+98068,2025,9,Government & Legal,2,28.6%,7
+98068,2025,10,Transportation Assistance,2,28.6%,7
+98068,2025,11,Education,0,0%,7
+98068,2025,12,Disaster,0,0%,7
+98068,2025,13,Other,1,14.3%,7
+98070,2025,2,Housing & Shelter,49,21.2%,231
+98070,2025,3,Food,18,7.8%,231
+98070,2025,1,Utilities,6,2.6%,231
+98070,2025,4,Healthcare & COVID-19,21,9.1%,231
+98070,2025,5,Mental Health & Addictions,2,<1%,231
+98070,2025,6,Employment & Income,14,6.1%,231
+98070,2025,7,Clothing & Household,8,3.5%,231
+98070,2025,8,Child Care & Parenting,1,<1%,231
+98070,2025,9,Government & Legal,67,29.0%,231
+98070,2025,10,Transportation Assistance,6,2.6%,231
+98070,2025,11,Education,0,0%,231
+98070,2025,12,Disaster,5,2.2%,231
+98070,2025,13,Other,34,14.7%,231
+98071,2025,2,Housing & Shelter,9,21.4%,42
+98071,2025,3,Food,6,14.3%,42
+98071,2025,1,Utilities,5,11.9%,42
+98071,2025,4,Healthcare & COVID-19,2,4.8%,42
+98071,2025,5,Mental Health & Addictions,2,4.8%,42
+98071,2025,6,Employment & Income,2,4.8%,42
+98071,2025,7,Clothing & Household,1,2.4%,42
+98071,2025,8,Child Care & Parenting,0,0%,42
+98071,2025,9,Government & Legal,8,19.0%,42
+98071,2025,10,Transportation Assistance,1,2.4%,42
+98071,2025,11,Education,0,0%,42
+98071,2025,12,Disaster,1,2.4%,42
+98071,2025,13,Other,5,11.9%,42
+98072,2025,2,Housing & Shelter,146,25.5%,572
+98072,2025,3,Food,65,11.4%,572
+98072,2025,1,Utilities,69,12.1%,572
+98072,2025,4,Healthcare & COVID-19,37,6.5%,572
+98072,2025,5,Mental Health & Addictions,12,2.1%,572
+98072,2025,6,Employment & Income,8,1.4%,572
+98072,2025,7,Clothing & Household,27,4.7%,572
+98072,2025,8,Child Care & Parenting,7,1.2%,572
+98072,2025,9,Government & Legal,75,13.1%,572
+98072,2025,10,Transportation Assistance,28,4.9%,572
+98072,2025,11,Education,0,0%,572
+98072,2025,12,Disaster,25,4.4%,572
+98072,2025,13,Other,73,12.8%,572
+98073,2025,2,Housing & Shelter,0,0%,1
+98073,2025,3,Food,0,0%,1
+98073,2025,1,Utilities,0,0%,1
+98073,2025,4,Healthcare & COVID-19,0,0%,1
+98073,2025,5,Mental Health & Addictions,0,0%,1
+98073,2025,6,Employment & Income,0,0%,1
+98073,2025,7,Clothing & Household,0,0%,1
+98073,2025,8,Child Care & Parenting,0,0%,1
+98073,2025,9,Government & Legal,0,0%,1
+98073,2025,10,Transportation Assistance,0,0%,1
+98073,2025,11,Education,0,0%,1
+98073,2025,12,Disaster,0,0%,1
+98073,2025,13,Other,1,100.0%,1
+98074,2025,2,Housing & Shelter,56,17.3%,323
+98074,2025,3,Food,39,12.1%,323
+98074,2025,1,Utilities,23,7.1%,323
+98074,2025,4,Healthcare & COVID-19,38,11.8%,323
+98074,2025,5,Mental Health & Addictions,17,5.3%,323
+98074,2025,6,Employment & Income,11,3.4%,323
+98074,2025,7,Clothing & Household,11,3.4%,323
+98074,2025,8,Child Care & Parenting,1,<1%,323
+98074,2025,9,Government & Legal,44,13.6%,323
+98074,2025,10,Transportation Assistance,16,5.0%,323
+98074,2025,11,Education,1,<1%,323
+98074,2025,12,Disaster,8,2.5%,323
+98074,2025,13,Other,58,18.0%,323
+98075,2025,2,Housing & Shelter,34,20.2%,168
+98075,2025,3,Food,16,9.5%,168
+98075,2025,1,Utilities,8,4.8%,168
+98075,2025,4,Healthcare & COVID-19,5,3.0%,168
+98075,2025,5,Mental Health & Addictions,8,4.8%,168
+98075,2025,6,Employment & Income,6,3.6%,168
+98075,2025,7,Clothing & Household,2,1.2%,168
+98075,2025,8,Child Care & Parenting,3,1.8%,168
+98075,2025,9,Government & Legal,36,21.4%,168
+98075,2025,10,Transportation Assistance,6,3.6%,168
+98075,2025,11,Education,0,0%,168
+98075,2025,12,Disaster,8,4.8%,168
+98075,2025,13,Other,36,21.4%,168
+98077,2025,2,Housing & Shelter,29,20.7%,140
+98077,2025,3,Food,10,7.1%,140
+98077,2025,1,Utilities,9,6.4%,140
+98077,2025,4,Healthcare & COVID-19,7,5.0%,140
+98077,2025,5,Mental Health & Addictions,6,4.3%,140
+98077,2025,6,Employment & Income,3,2.1%,140
+98077,2025,7,Clothing & Household,1,<1%,140
+98077,2025,8,Child Care & Parenting,2,1.4%,140
+98077,2025,9,Government & Legal,36,25.7%,140
+98077,2025,10,Transportation Assistance,3,2.1%,140
+98077,2025,11,Education,0,0%,140
+98077,2025,12,Disaster,4,2.9%,140
+98077,2025,13,Other,30,21.4%,140
+98083,2025,2,Housing & Shelter,4,50.0%,8
+98083,2025,3,Food,0,0%,8
+98083,2025,1,Utilities,1,12.5%,8
+98083,2025,4,Healthcare & COVID-19,1,12.5%,8
+98083,2025,5,Mental Health & Addictions,0,0%,8
+98083,2025,6,Employment & Income,0,0%,8
+98083,2025,7,Clothing & Household,0,0%,8
+98083,2025,8,Child Care & Parenting,0,0%,8
+98083,2025,9,Government & Legal,0,0%,8
+98083,2025,10,Transportation Assistance,0,0%,8
+98083,2025,11,Education,0,0%,8
+98083,2025,12,Disaster,1,12.5%,8
+98083,2025,13,Other,1,12.5%,8
+98089,2025,2,Housing & Shelter,0,0%,2
+98089,2025,3,Food,0,0%,2
+98089,2025,1,Utilities,1,50.0%,2
+98089,2025,4,Healthcare & COVID-19,1,50.0%,2
+98089,2025,5,Mental Health & Addictions,0,0%,2
+98089,2025,6,Employment & Income,0,0%,2
+98089,2025,7,Clothing & Household,0,0%,2
+98089,2025,8,Child Care & Parenting,0,0%,2
+98089,2025,9,Government & Legal,0,0%,2
+98089,2025,10,Transportation Assistance,0,0%,2
+98089,2025,11,Education,0,0%,2
+98089,2025,12,Disaster,0,0%,2
+98089,2025,13,Other,0,0%,2
+98092,2025,2,Housing & Shelter,773,31.2%,2481
+98092,2025,3,Food,303,12.2%,2481
+98092,2025,1,Utilities,285,11.5%,2481
+98092,2025,4,Healthcare & COVID-19,108,4.4%,2481
+98092,2025,5,Mental Health & Addictions,43,1.7%,2481
+98092,2025,6,Employment & Income,49,2.0%,2481
+98092,2025,7,Clothing & Household,105,4.2%,2481
+98092,2025,8,Child Care & Parenting,19,<1%,2481
+98092,2025,9,Government & Legal,317,12.8%,2481
+98092,2025,10,Transportation Assistance,69,2.8%,2481
+98092,2025,11,Education,6,<1%,2481
+98092,2025,12,Disaster,91,3.7%,2481
+98092,2025,13,Other,313,12.6%,2481
+98093,2025,2,Housing & Shelter,1,25.0%,4
+98093,2025,3,Food,1,25.0%,4
+98093,2025,1,Utilities,0,0%,4
+98093,2025,4,Healthcare & COVID-19,0,0%,4
+98093,2025,5,Mental Health & Addictions,0,0%,4
+98093,2025,6,Employment & Income,1,25.0%,4
+98093,2025,7,Clothing & Household,0,0%,4
+98093,2025,8,Child Care & Parenting,0,0%,4
+98093,2025,9,Government & Legal,0,0%,4
+98093,2025,10,Transportation Assistance,0,0%,4
+98093,2025,11,Education,0,0%,4
+98093,2025,12,Disaster,0,0%,4
+98093,2025,13,Other,1,25.0%,4
+98101,2025,2,Housing & Shelter,696,30.8%,2257
+98101,2025,3,Food,288,12.8%,2257
+98101,2025,1,Utilities,181,8.0%,2257
+98101,2025,4,Healthcare & COVID-19,107,4.7%,2257
+98101,2025,5,Mental Health & Addictions,62,2.7%,2257
+98101,2025,6,Employment & Income,64,2.8%,2257
+98101,2025,7,Clothing & Household,67,3.0%,2257
+98101,2025,8,Child Care & Parenting,5,<1%,2257
+98101,2025,9,Government & Legal,316,14.0%,2257
+98101,2025,10,Transportation Assistance,80,3.5%,2257
+98101,2025,11,Education,3,<1%,2257
+98101,2025,12,Disaster,73,3.2%,2257
+98101,2025,13,Other,315,14.0%,2257
+98102,2025,2,Housing & Shelter,448,29.8%,1501
+98102,2025,3,Food,198,13.2%,1501
+98102,2025,1,Utilities,119,7.9%,1501
+98102,2025,4,Healthcare & COVID-19,71,4.7%,1501
+98102,2025,5,Mental Health & Addictions,19,1.3%,1501
+98102,2025,6,Employment & Income,50,3.3%,1501
+98102,2025,7,Clothing & Household,27,1.8%,1501
+98102,2025,8,Child Care & Parenting,4,<1%,1501
+98102,2025,9,Government & Legal,287,19.1%,1501
+98102,2025,10,Transportation Assistance,62,4.1%,1501
+98102,2025,11,Education,4,<1%,1501
+98102,2025,12,Disaster,43,2.9%,1501
+98102,2025,13,Other,169,11.3%,1501
+98104,2025,2,Housing & Shelter,1817,32.6%,5567
+98104,2025,3,Food,691,12.4%,5567
+98104,2025,1,Utilities,495,8.9%,5567
+98104,2025,4,Healthcare & COVID-19,256,4.6%,5567
+98104,2025,5,Mental Health & Addictions,126,2.3%,5567
+98104,2025,6,Employment & Income,149,2.7%,5567
+98104,2025,7,Clothing & Household,215,3.9%,5567
+98104,2025,8,Child Care & Parenting,18,<1%,5567
+98104,2025,9,Government & Legal,706,12.7%,5567
+98104,2025,10,Transportation Assistance,153,2.7%,5567
+98104,2025,11,Education,13,<1%,5567
+98104,2025,12,Disaster,189,3.4%,5567
+98104,2025,13,Other,739,13.3%,5567
+98105,2025,2,Housing & Shelter,664,30.0%,2215
+98105,2025,3,Food,275,12.4%,2215
+98105,2025,1,Utilities,166,7.5%,2215
+98105,2025,4,Healthcare & COVID-19,113,5.1%,2215
+98105,2025,5,Mental Health & Addictions,39,1.8%,2215
+98105,2025,6,Employment & Income,83,3.7%,2215
+98105,2025,7,Clothing & Household,60,2.7%,2215
+98105,2025,8,Child Care & Parenting,1,<1%,2215
+98105,2025,9,Government & Legal,371,16.7%,2215
+98105,2025,10,Transportation Assistance,61,2.8%,2215
+98105,2025,11,Education,7,<1%,2215
+98105,2025,12,Disaster,64,2.9%,2215
+98105,2025,13,Other,311,14.0%,2215
+98106,2025,2,Housing & Shelter,699,29.4%,2374
+98106,2025,3,Food,286,12.0%,2374
+98106,2025,1,Utilities,279,11.8%,2374
+98106,2025,4,Healthcare & COVID-19,125,5.3%,2374
+98106,2025,5,Mental Health & Addictions,33,1.4%,2374
+98106,2025,6,Employment & Income,69,2.9%,2374
+98106,2025,7,Clothing & Household,103,4.3%,2374
+98106,2025,8,Child Care & Parenting,23,<1%,2374
+98106,2025,9,Government & Legal,312,13.1%,2374
+98106,2025,10,Transportation Assistance,72,3.0%,2374
+98106,2025,11,Education,8,<1%,2374
+98106,2025,12,Disaster,84,3.5%,2374
+98106,2025,13,Other,281,11.8%,2374
+98107,2025,2,Housing & Shelter,328,29.1%,1129
+98107,2025,3,Food,139,12.3%,1129
+98107,2025,1,Utilities,74,6.6%,1129
+98107,2025,4,Healthcare & COVID-19,61,5.4%,1129
+98107,2025,5,Mental Health & Addictions,37,3.3%,1129
+98107,2025,6,Employment & Income,31,2.7%,1129
+98107,2025,7,Clothing & Household,27,2.4%,1129
+98107,2025,8,Child Care & Parenting,2,<1%,1129
+98107,2025,9,Government & Legal,204,18.1%,1129
+98107,2025,10,Transportation Assistance,34,3.0%,1129
+98107,2025,11,Education,5,<1%,1129
+98107,2025,12,Disaster,40,3.5%,1129
+98107,2025,13,Other,147,13.0%,1129
+98108,2025,2,Housing & Shelter,473,28.1%,1684
+98108,2025,3,Food,207,12.3%,1684
+98108,2025,1,Utilities,185,11.0%,1684
+98108,2025,4,Healthcare & COVID-19,114,6.8%,1684
+98108,2025,5,Mental Health & Addictions,39,2.3%,1684
+98108,2025,6,Employment & Income,53,3.1%,1684
+98108,2025,7,Clothing & Household,47,2.8%,1684
+98108,2025,8,Child Care & Parenting,15,<1%,1684
+98108,2025,9,Government & Legal,217,12.9%,1684
+98108,2025,10,Transportation Assistance,63,3.7%,1684
+98108,2025,11,Education,7,<1%,1684
+98108,2025,12,Disaster,56,3.3%,1684
+98108,2025,13,Other,208,12.4%,1684
+98109,2025,2,Housing & Shelter,455,29.3%,1553
+98109,2025,3,Food,185,11.9%,1553
+98109,2025,1,Utilities,110,7.1%,1553
+98109,2025,4,Healthcare & COVID-19,86,5.5%,1553
+98109,2025,5,Mental Health & Addictions,29,1.9%,1553
+98109,2025,6,Employment & Income,24,1.5%,1553
+98109,2025,7,Clothing & Household,33,2.1%,1553
+98109,2025,8,Child Care & Parenting,5,<1%,1553
+98109,2025,9,Government & Legal,268,17.3%,1553
+98109,2025,10,Transportation Assistance,32,2.1%,1553
+98109,2025,11,Education,3,<1%,1553
+98109,2025,12,Disaster,44,2.8%,1553
+98109,2025,13,Other,279,18.0%,1553
+98111,2025,2,Housing & Shelter,15,8.2%,182
+98111,2025,3,Food,9,4.9%,182
+98111,2025,1,Utilities,5,2.7%,182
+98111,2025,4,Healthcare & COVID-19,20,11.0%,182
+98111,2025,5,Mental Health & Addictions,5,2.7%,182
+98111,2025,6,Employment & Income,1,<1%,182
+98111,2025,7,Clothing & Household,3,1.6%,182
+98111,2025,8,Child Care & Parenting,1,<1%,182
+98111,2025,9,Government & Legal,18,9.9%,182
+98111,2025,10,Transportation Assistance,2,1.1%,182
+98111,2025,11,Education,0,0%,182
+98111,2025,12,Disaster,1,<1%,182
+98111,2025,13,Other,102,56.0%,182
+98112,2025,2,Housing & Shelter,239,29.5%,809
+98112,2025,3,Food,105,13.0%,809
+98112,2025,1,Utilities,66,8.2%,809
+98112,2025,4,Healthcare & COVID-19,42,5.2%,809
+98112,2025,5,Mental Health & Addictions,27,3.3%,809
+98112,2025,6,Employment & Income,12,1.5%,809
+98112,2025,7,Clothing & Household,24,3.0%,809
+98112,2025,8,Child Care & Parenting,3,<1%,809
+98112,2025,9,Government & Legal,132,16.3%,809
+98112,2025,10,Transportation Assistance,23,2.8%,809
+98112,2025,11,Education,5,<1%,809
+98112,2025,12,Disaster,17,2.1%,809
+98112,2025,13,Other,114,14.1%,809
+98113,2025,2,Housing & Shelter,20,34.5%,58
+98113,2025,3,Food,10,17.2%,58
+98113,2025,1,Utilities,4,6.9%,58
+98113,2025,4,Healthcare & COVID-19,2,3.4%,58
+98113,2025,5,Mental Health & Addictions,2,3.4%,58
+98113,2025,6,Employment & Income,1,1.7%,58
+98113,2025,7,Clothing & Household,3,5.2%,58
+98113,2025,8,Child Care & Parenting,3,5.2%,58
+98113,2025,9,Government & Legal,7,12.1%,58
+98113,2025,10,Transportation Assistance,1,1.7%,58
+98113,2025,11,Education,0,0%,58
+98113,2025,12,Disaster,0,0%,58
+98113,2025,13,Other,5,8.6%,58
+98114,2025,2,Housing & Shelter,14,41.2%,34
+98114,2025,3,Food,5,14.7%,34
+98114,2025,1,Utilities,3,8.8%,34
+98114,2025,4,Healthcare & COVID-19,1,2.9%,34
+98114,2025,5,Mental Health & Addictions,0,0%,34
+98114,2025,6,Employment & Income,0,0%,34
+98114,2025,7,Clothing & Household,0,0%,34
+98114,2025,8,Child Care & Parenting,0,0%,34
+98114,2025,9,Government & Legal,7,20.6%,34
+98114,2025,10,Transportation Assistance,0,0%,34
+98114,2025,11,Education,0,0%,34
+98114,2025,12,Disaster,2,5.9%,34
+98114,2025,13,Other,2,5.9%,34
+98115,2025,2,Housing & Shelter,627,28.5%,2201
+98115,2025,3,Food,229,10.4%,2201
+98115,2025,1,Utilities,165,7.5%,2201
+98115,2025,4,Healthcare & COVID-19,109,5.0%,2201
+98115,2025,5,Mental Health & Addictions,57,2.6%,2201
+98115,2025,6,Employment & Income,56,2.5%,2201
+98115,2025,7,Clothing & Household,64,2.9%,2201
+98115,2025,8,Child Care & Parenting,13,<1%,2201
+98115,2025,9,Government & Legal,401,18.2%,2201
+98115,2025,10,Transportation Assistance,66,3.0%,2201
+98115,2025,11,Education,4,<1%,2201
+98115,2025,12,Disaster,72,3.3%,2201
+98115,2025,13,Other,338,15.4%,2201
+98116,2025,2,Housing & Shelter,315,30.0%,1051
+98116,2025,3,Food,128,12.2%,1051
+98116,2025,1,Utilities,95,9.0%,1051
+98116,2025,4,Healthcare & COVID-19,51,4.9%,1051
+98116,2025,5,Mental Health & Addictions,21,2.0%,1051
+98116,2025,6,Employment & Income,26,2.5%,1051
+98116,2025,7,Clothing & Household,23,2.2%,1051
+98116,2025,8,Child Care & Parenting,4,<1%,1051
+98116,2025,9,Government & Legal,181,17.2%,1051
+98116,2025,10,Transportation Assistance,27,2.6%,1051
+98116,2025,11,Education,4,<1%,1051
+98116,2025,12,Disaster,36,3.4%,1051
+98116,2025,13,Other,140,13.3%,1051
+98117,2025,2,Housing & Shelter,199,24.9%,799
+98117,2025,3,Food,79,9.9%,799
+98117,2025,1,Utilities,69,8.6%,799
+98117,2025,4,Healthcare & COVID-19,58,7.3%,799
+98117,2025,5,Mental Health & Addictions,22,2.8%,799
+98117,2025,6,Employment & Income,22,2.8%,799
+98117,2025,7,Clothing & Household,26,3.3%,799
+98117,2025,8,Child Care & Parenting,6,<1%,799
+98117,2025,9,Government & Legal,131,16.4%,799
+98117,2025,10,Transportation Assistance,26,3.3%,799
+98117,2025,11,Education,2,<1%,799
+98117,2025,12,Disaster,22,2.8%,799
+98117,2025,13,Other,137,17.1%,799
+98118,2025,2,Housing & Shelter,1708,30.5%,5595
+98118,2025,3,Food,726,13.0%,5595
+98118,2025,1,Utilities,605,10.8%,5595
+98118,2025,4,Healthcare & COVID-19,252,4.5%,5595
+98118,2025,5,Mental Health & Addictions,91,1.6%,5595
+98118,2025,6,Employment & Income,132,2.4%,5595
+98118,2025,7,Clothing & Household,211,3.8%,5595
+98118,2025,8,Child Care & Parenting,29,<1%,5595
+98118,2025,9,Government & Legal,756,13.5%,5595
+98118,2025,10,Transportation Assistance,164,2.9%,5595
+98118,2025,11,Education,25,<1%,5595
+98118,2025,12,Disaster,211,3.8%,5595
+98118,2025,13,Other,685,12.2%,5595
+98119,2025,2,Housing & Shelter,221,25.5%,868
+98119,2025,3,Food,94,10.8%,868
+98119,2025,1,Utilities,66,7.6%,868
+98119,2025,4,Healthcare & COVID-19,58,6.7%,868
+98119,2025,5,Mental Health & Addictions,23,2.6%,868
+98119,2025,6,Employment & Income,24,2.8%,868
+98119,2025,7,Clothing & Household,12,1.4%,868
+98119,2025,8,Child Care & Parenting,6,<1%,868
+98119,2025,9,Government & Legal,196,22.6%,868
+98119,2025,10,Transportation Assistance,25,2.9%,868
+98119,2025,11,Education,1,<1%,868
+98119,2025,12,Disaster,28,3.2%,868
+98119,2025,13,Other,114,13.1%,868
+98121,2025,2,Housing & Shelter,573,28.3%,2022
+98121,2025,3,Food,248,12.3%,2022
+98121,2025,1,Utilities,163,8.1%,2022
+98121,2025,4,Healthcare & COVID-19,112,5.5%,2022
+98121,2025,5,Mental Health & Addictions,45,2.2%,2022
+98121,2025,6,Employment & Income,63,3.1%,2022
+98121,2025,7,Clothing & Household,75,3.7%,2022
+98121,2025,8,Child Care & Parenting,6,<1%,2022
+98121,2025,9,Government & Legal,312,15.4%,2022
+98121,2025,10,Transportation Assistance,60,3.0%,2022
+98121,2025,11,Education,11,<1%,2022
+98121,2025,12,Disaster,72,3.6%,2022
+98121,2025,13,Other,282,13.9%,2022
+98122,2025,2,Housing & Shelter,1853,29.1%,6370
+98122,2025,3,Food,786,12.3%,6370
+98122,2025,1,Utilities,525,8.2%,6370
+98122,2025,4,Healthcare & COVID-19,256,4.0%,6370
+98122,2025,5,Mental Health & Addictions,150,2.4%,6370
+98122,2025,6,Employment & Income,167,2.6%,6370
+98122,2025,7,Clothing & Household,204,3.2%,6370
+98122,2025,8,Child Care & Parenting,32,<1%,6370
+98122,2025,9,Government & Legal,906,14.2%,6370
+98122,2025,10,Transportation Assistance,149,2.3%,6370
+98122,2025,11,Education,22,<1%,6370
+98122,2025,12,Disaster,195,3.1%,6370
+98122,2025,13,Other,1125,17.7%,6370
+98124,2025,2,Housing & Shelter,126,15.3%,823
+98124,2025,3,Food,9,1.1%,823
+98124,2025,1,Utilities,8,<1%,823
+98124,2025,4,Healthcare & COVID-19,337,40.9%,823
+98124,2025,5,Mental Health & Addictions,14,1.7%,823
+98124,2025,6,Employment & Income,13,1.6%,823
+98124,2025,7,Clothing & Household,4,<1%,823
+98124,2025,8,Child Care & Parenting,13,1.6%,823
+98124,2025,9,Government & Legal,29,3.5%,823
+98124,2025,10,Transportation Assistance,22,2.7%,823
+98124,2025,11,Education,2,<1%,823
+98124,2025,12,Disaster,1,<1%,823
+98124,2025,13,Other,245,29.8%,823
+98125,2025,2,Housing & Shelter,1129,29.6%,3810
+98125,2025,3,Food,486,12.8%,3810
+98125,2025,1,Utilities,366,9.6%,3810
+98125,2025,4,Healthcare & COVID-19,224,5.9%,3810
+98125,2025,5,Mental Health & Addictions,89,2.3%,3810
+98125,2025,6,Employment & Income,103,2.7%,3810
+98125,2025,7,Clothing & Household,122,3.2%,3810
+98125,2025,8,Child Care & Parenting,22,<1%,3810
+98125,2025,9,Government & Legal,514,13.5%,3810
+98125,2025,10,Transportation Assistance,124,3.3%,3810
+98125,2025,11,Education,14,<1%,3810
+98125,2025,12,Disaster,96,2.5%,3810
+98125,2025,13,Other,521,13.7%,3810
+98126,2025,2,Housing & Shelter,387,28.1%,1376
+98126,2025,3,Food,133,9.7%,1376
+98126,2025,1,Utilities,124,9.0%,1376
+98126,2025,4,Healthcare & COVID-19,66,4.8%,1376
+98126,2025,5,Mental Health & Addictions,36,2.6%,1376
+98126,2025,6,Employment & Income,42,3.1%,1376
+98126,2025,7,Clothing & Household,37,2.7%,1376
+98126,2025,8,Child Care & Parenting,6,<1%,1376
+98126,2025,9,Government & Legal,204,14.8%,1376
+98126,2025,10,Transportation Assistance,43,3.1%,1376
+98126,2025,11,Education,10,<1%,1376
+98126,2025,12,Disaster,53,3.9%,1376
+98126,2025,13,Other,235,17.1%,1376
+98127,2025,2,Housing & Shelter,2,50.0%,4
+98127,2025,3,Food,1,25.0%,4
+98127,2025,1,Utilities,0,0%,4
+98127,2025,4,Healthcare & COVID-19,0,0%,4
+98127,2025,5,Mental Health & Addictions,0,0%,4
+98127,2025,6,Employment & Income,0,0%,4
+98127,2025,7,Clothing & Household,0,0%,4
+98127,2025,8,Child Care & Parenting,0,0%,4
+98127,2025,9,Government & Legal,0,0%,4
+98127,2025,10,Transportation Assistance,0,0%,4
+98127,2025,11,Education,0,0%,4
+98127,2025,12,Disaster,0,0%,4
+98127,2025,13,Other,1,25.0%,4
+98129,2025,2,Housing & Shelter,2,66.7%,3
+98129,2025,3,Food,0,0%,3
+98129,2025,1,Utilities,0,0%,3
+98129,2025,4,Healthcare & COVID-19,0,0%,3
+98129,2025,5,Mental Health & Addictions,0,0%,3
+98129,2025,6,Employment & Income,0,0%,3
+98129,2025,7,Clothing & Household,0,0%,3
+98129,2025,8,Child Care & Parenting,0,0%,3
+98129,2025,9,Government & Legal,0,0%,3
+98129,2025,10,Transportation Assistance,0,0%,3
+98129,2025,11,Education,0,0%,3
+98129,2025,12,Disaster,0,0%,3
+98129,2025,13,Other,1,33.3%,3
+98131,2025,2,Housing & Shelter,5,55.6%,9
+98131,2025,3,Food,1,11.1%,9
+98131,2025,1,Utilities,1,11.1%,9
+98131,2025,4,Healthcare & COVID-19,1,11.1%,9
+98131,2025,5,Mental Health & Addictions,0,0%,9
+98131,2025,6,Employment & Income,0,0%,9
+98131,2025,7,Clothing & Household,1,11.1%,9
+98131,2025,8,Child Care & Parenting,0,0%,9
+98131,2025,9,Government & Legal,0,0%,9
+98131,2025,10,Transportation Assistance,0,0%,9
+98131,2025,11,Education,0,0%,9
+98131,2025,12,Disaster,0,0%,9
+98131,2025,13,Other,0,0%,9
+98132,2025,2,Housing & Shelter,0,0%,0
+98132,2025,3,Food,0,0%,0
+98132,2025,1,Utilities,0,0%,0
+98132,2025,4,Healthcare & COVID-19,0,0%,0
+98132,2025,5,Mental Health & Addictions,0,0%,0
+98132,2025,6,Employment & Income,0,0%,0
+98132,2025,7,Clothing & Household,0,0%,0
+98132,2025,8,Child Care & Parenting,0,0%,0
+98132,2025,9,Government & Legal,0,0%,0
+98132,2025,10,Transportation Assistance,0,0%,0
+98132,2025,11,Education,0,0%,0
+98132,2025,12,Disaster,0,0%,0
+98132,2025,13,Other,0,0%,0
+98133,2025,2,Housing & Shelter,1589,29.9%,5320
+98133,2025,3,Food,685,12.9%,5320
+98133,2025,1,Utilities,502,9.4%,5320
+98133,2025,4,Healthcare & COVID-19,281,5.3%,5320
+98133,2025,5,Mental Health & Addictions,109,2.0%,5320
+98133,2025,6,Employment & Income,141,2.7%,5320
+98133,2025,7,Clothing & Household,191,3.6%,5320
+98133,2025,8,Child Care & Parenting,24,<1%,5320
+98133,2025,9,Government & Legal,739,13.9%,5320
+98133,2025,10,Transportation Assistance,152,2.9%,5320
+98133,2025,11,Education,17,<1%,5320
+98133,2025,12,Disaster,172,3.2%,5320
+98133,2025,13,Other,718,13.5%,5320
+98134,2025,2,Housing & Shelter,69,31.1%,222
+98134,2025,3,Food,24,10.8%,222
+98134,2025,1,Utilities,20,9.0%,222
+98134,2025,4,Healthcare & COVID-19,11,5.0%,222
+98134,2025,5,Mental Health & Addictions,3,1.4%,222
+98134,2025,6,Employment & Income,4,1.8%,222
+98134,2025,7,Clothing & Household,11,5.0%,222
+98134,2025,8,Child Care & Parenting,0,0%,222
+98134,2025,9,Government & Legal,29,13.1%,222
+98134,2025,10,Transportation Assistance,5,2.3%,222
+98134,2025,11,Education,0,0%,222
+98134,2025,12,Disaster,7,3.2%,222
+98134,2025,13,Other,39,17.6%,222
+98136,2025,2,Housing & Shelter,142,26.0%,546
+98136,2025,3,Food,74,13.6%,546
+98136,2025,1,Utilities,42,7.7%,546
+98136,2025,4,Healthcare & COVID-19,32,5.9%,546
+98136,2025,5,Mental Health & Addictions,14,2.6%,546
+98136,2025,6,Employment & Income,12,2.2%,546
+98136,2025,7,Clothing & Household,17,3.1%,546
+98136,2025,8,Child Care & Parenting,5,<1%,546
+98136,2025,9,Government & Legal,90,16.5%,546
+98136,2025,10,Transportation Assistance,10,1.8%,546
+98136,2025,11,Education,2,<1%,546
+98136,2025,12,Disaster,22,4.0%,546
+98136,2025,13,Other,84,15.4%,546
+98138,2025,2,Housing & Shelter,2,20.0%,10
+98138,2025,3,Food,1,10.0%,10
+98138,2025,1,Utilities,0,0%,10
+98138,2025,4,Healthcare & COVID-19,0,0%,10
+98138,2025,5,Mental Health & Addictions,2,20.0%,10
+98138,2025,6,Employment & Income,0,0%,10
+98138,2025,7,Clothing & Household,0,0%,10
+98138,2025,8,Child Care & Parenting,0,0%,10
+98138,2025,9,Government & Legal,3,30.0%,10
+98138,2025,10,Transportation Assistance,2,20.0%,10
+98138,2025,11,Education,0,0%,10
+98138,2025,12,Disaster,0,0%,10
+98138,2025,13,Other,0,0%,10
+98139,2025,2,Housing & Shelter,1,20.0%,5
+98139,2025,3,Food,3,60.0%,5
+98139,2025,1,Utilities,1,20.0%,5
+98139,2025,4,Healthcare & COVID-19,0,0%,5
+98139,2025,5,Mental Health & Addictions,0,0%,5
+98139,2025,6,Employment & Income,0,0%,5
+98139,2025,7,Clothing & Household,0,0%,5
+98139,2025,8,Child Care & Parenting,0,0%,5
+98139,2025,9,Government & Legal,0,0%,5
+98139,2025,10,Transportation Assistance,0,0%,5
+98139,2025,11,Education,0,0%,5
+98139,2025,12,Disaster,0,0%,5
+98139,2025,13,Other,0,0%,5
+98141,2025,2,Housing & Shelter,0,0%,0
+98141,2025,3,Food,0,0%,0
+98141,2025,1,Utilities,0,0%,0
+98141,2025,4,Healthcare & COVID-19,0,0%,0
+98141,2025,5,Mental Health & Addictions,0,0%,0
+98141,2025,6,Employment & Income,0,0%,0
+98141,2025,7,Clothing & Household,0,0%,0
+98141,2025,8,Child Care & Parenting,0,0%,0
+98141,2025,9,Government & Legal,0,0%,0
+98141,2025,10,Transportation Assistance,0,0%,0
+98141,2025,11,Education,0,0%,0
+98141,2025,12,Disaster,0,0%,0
+98141,2025,13,Other,0,0%,0
+98144,2025,2,Housing & Shelter,1322,30.9%,4277
+98144,2025,3,Food,553,12.9%,4277
+98144,2025,1,Utilities,403,9.4%,4277
+98144,2025,4,Healthcare & COVID-19,192,4.5%,4277
+98144,2025,5,Mental Health & Addictions,92,2.2%,4277
+98144,2025,6,Employment & Income,121,2.8%,4277
+98144,2025,7,Clothing & Household,166,3.9%,4277
+98144,2025,8,Child Care & Parenting,18,<1%,4277
+98144,2025,9,Government & Legal,552,12.9%,4277
+98144,2025,10,Transportation Assistance,138,3.2%,4277
+98144,2025,11,Education,13,<1%,4277
+98144,2025,12,Disaster,158,3.7%,4277
+98144,2025,13,Other,549,12.8%,4277
+98145,2025,2,Housing & Shelter,5,31.3%,16
+98145,2025,3,Food,3,18.8%,16
+98145,2025,1,Utilities,1,6.3%,16
+98145,2025,4,Healthcare & COVID-19,2,12.5%,16
+98145,2025,5,Mental Health & Addictions,0,0%,16
+98145,2025,6,Employment & Income,0,0%,16
+98145,2025,7,Clothing & Household,0,0%,16
+98145,2025,8,Child Care & Parenting,0,0%,16
+98145,2025,9,Government & Legal,1,6.3%,16
+98145,2025,10,Transportation Assistance,2,12.5%,16
+98145,2025,11,Education,0,0%,16
+98145,2025,12,Disaster,1,6.3%,16
+98145,2025,13,Other,1,6.3%,16
+98146,2025,2,Housing & Shelter,702,29.5%,2381
+98146,2025,3,Food,316,13.3%,2381
+98146,2025,1,Utilities,325,13.6%,2381
+98146,2025,4,Healthcare & COVID-19,71,3.0%,2381
+98146,2025,5,Mental Health & Addictions,53,2.2%,2381
+98146,2025,6,Employment & Income,67,2.8%,2381
+98146,2025,7,Clothing & Household,85,3.6%,2381
+98146,2025,8,Child Care & Parenting,9,<1%,2381
+98146,2025,9,Government & Legal,368,15.5%,2381
+98146,2025,10,Transportation Assistance,49,2.1%,2381
+98146,2025,11,Education,9,<1%,2381
+98146,2025,12,Disaster,66,2.8%,2381
+98146,2025,13,Other,261,11.0%,2381
+98148,2025,2,Housing & Shelter,334,30.3%,1101
+98148,2025,3,Food,145,13.2%,1101
+98148,2025,1,Utilities,143,13.0%,1101
+98148,2025,4,Healthcare & COVID-19,39,3.5%,1101
+98148,2025,5,Mental Health & Addictions,16,1.5%,1101
+98148,2025,6,Employment & Income,25,2.3%,1101
+98148,2025,7,Clothing & Household,38,3.5%,1101
+98148,2025,8,Child Care & Parenting,11,<1%,1101
+98148,2025,9,Government & Legal,137,12.4%,1101
+98148,2025,10,Transportation Assistance,35,3.2%,1101
+98148,2025,11,Education,9,<1%,1101
+98148,2025,12,Disaster,26,2.4%,1101
+98148,2025,13,Other,143,13.0%,1101
+98154,2025,2,Housing & Shelter,11,61.1%,18
+98154,2025,3,Food,2,11.1%,18
+98154,2025,1,Utilities,3,16.7%,18
+98154,2025,4,Healthcare & COVID-19,0,0%,18
+98154,2025,5,Mental Health & Addictions,1,5.6%,18
+98154,2025,6,Employment & Income,0,0%,18
+98154,2025,7,Clothing & Household,0,0%,18
+98154,2025,8,Child Care & Parenting,0,0%,18
+98154,2025,9,Government & Legal,0,0%,18
+98154,2025,10,Transportation Assistance,0,0%,18
+98154,2025,11,Education,0,0%,18
+98154,2025,12,Disaster,0,0%,18
+98154,2025,13,Other,1,5.6%,18
+98155,2025,2,Housing & Shelter,476,26.1%,1824
+98155,2025,3,Food,239,13.1%,1824
+98155,2025,1,Utilities,179,9.8%,1824
+98155,2025,4,Healthcare & COVID-19,117,6.4%,1824
+98155,2025,5,Mental Health & Addictions,38,2.1%,1824
+98155,2025,6,Employment & Income,49,2.7%,1824
+98155,2025,7,Clothing & Household,56,3.1%,1824
+98155,2025,8,Child Care & Parenting,7,<1%,1824
+98155,2025,9,Government & Legal,280,15.4%,1824
+98155,2025,10,Transportation Assistance,74,4.1%,1824
+98155,2025,11,Education,4,<1%,1824
+98155,2025,12,Disaster,58,3.2%,1824
+98155,2025,13,Other,247,13.5%,1824
+98158,2025,2,Housing & Shelter,17,39.5%,43
+98158,2025,3,Food,6,14.0%,43
+98158,2025,1,Utilities,2,4.7%,43
+98158,2025,4,Healthcare & COVID-19,3,7.0%,43
+98158,2025,5,Mental Health & Addictions,0,0%,43
+98158,2025,6,Employment & Income,1,2.3%,43
+98158,2025,7,Clothing & Household,0,0%,43
+98158,2025,8,Child Care & Parenting,0,0%,43
+98158,2025,9,Government & Legal,4,9.3%,43
+98158,2025,10,Transportation Assistance,2,4.7%,43
+98158,2025,11,Education,0,0%,43
+98158,2025,12,Disaster,1,2.3%,43
+98158,2025,13,Other,7,16.3%,43
+98160,2025,2,Housing & Shelter,0,0%,0
+98160,2025,3,Food,0,0%,0
+98160,2025,1,Utilities,0,0%,0
+98160,2025,4,Healthcare & COVID-19,0,0%,0
+98160,2025,5,Mental Health & Addictions,0,0%,0
+98160,2025,6,Employment & Income,0,0%,0
+98160,2025,7,Clothing & Household,0,0%,0
+98160,2025,8,Child Care & Parenting,0,0%,0
+98160,2025,9,Government & Legal,0,0%,0
+98160,2025,10,Transportation Assistance,0,0%,0
+98160,2025,11,Education,0,0%,0
+98160,2025,12,Disaster,0,0%,0
+98160,2025,13,Other,0,0%,0
+98161,2025,2,Housing & Shelter,6,60.0%,10
+98161,2025,3,Food,0,0%,10
+98161,2025,1,Utilities,1,10.0%,10
+98161,2025,4,Healthcare & COVID-19,0,0%,10
+98161,2025,5,Mental Health & Addictions,0,0%,10
+98161,2025,6,Employment & Income,1,10.0%,10
+98161,2025,7,Clothing & Household,0,0%,10
+98161,2025,8,Child Care & Parenting,0,0%,10
+98161,2025,9,Government & Legal,0,0%,10
+98161,2025,10,Transportation Assistance,0,0%,10
+98161,2025,11,Education,0,0%,10
+98161,2025,12,Disaster,1,10.0%,10
+98161,2025,13,Other,1,10.0%,10
+98164,2025,2,Housing & Shelter,0,0%,1
+98164,2025,3,Food,0,0%,1
+98164,2025,1,Utilities,0,0%,1
+98164,2025,4,Healthcare & COVID-19,0,0%,1
+98164,2025,5,Mental Health & Addictions,0,0%,1
+98164,2025,6,Employment & Income,1,100.0%,1
+98164,2025,7,Clothing & Household,0,0%,1
+98164,2025,8,Child Care & Parenting,0,0%,1
+98164,2025,9,Government & Legal,0,0%,1
+98164,2025,10,Transportation Assistance,0,0%,1
+98164,2025,11,Education,0,0%,1
+98164,2025,12,Disaster,0,0%,1
+98164,2025,13,Other,0,0%,1
+98165,2025,2,Housing & Shelter,1,16.7%,6
+98165,2025,3,Food,2,33.3%,6
+98165,2025,1,Utilities,0,0%,6
+98165,2025,4,Healthcare & COVID-19,0,0%,6
+98165,2025,5,Mental Health & Addictions,0,0%,6
+98165,2025,6,Employment & Income,0,0%,6
+98165,2025,7,Clothing & Household,0,0%,6
+98165,2025,8,Child Care & Parenting,0,0%,6
+98165,2025,9,Government & Legal,0,0%,6
+98165,2025,10,Transportation Assistance,2,33.3%,6
+98165,2025,11,Education,0,0%,6
+98165,2025,12,Disaster,0,0%,6
+98165,2025,13,Other,1,16.7%,6
+98166,2025,2,Housing & Shelter,452,30.1%,1501
+98166,2025,3,Food,170,11.3%,1501
+98166,2025,1,Utilities,175,11.7%,1501
+98166,2025,4,Healthcare & COVID-19,108,7.2%,1501
+98166,2025,5,Mental Health & Addictions,32,2.1%,1501
+98166,2025,6,Employment & Income,34,2.3%,1501
+98166,2025,7,Clothing & Household,32,2.1%,1501
+98166,2025,8,Child Care & Parenting,19,1.3%,1501
+98166,2025,9,Government & Legal,175,11.7%,1501
+98166,2025,10,Transportation Assistance,35,2.3%,1501
+98166,2025,11,Education,2,<1%,1501
+98166,2025,12,Disaster,50,3.3%,1501
+98166,2025,13,Other,217,14.5%,1501
+98168,2025,2,Housing & Shelter,1128,30.1%,3744
+98168,2025,3,Food,475,12.7%,3744
+98168,2025,1,Utilities,460,12.3%,3744
+98168,2025,4,Healthcare & COVID-19,172,4.6%,3744
+98168,2025,5,Mental Health & Addictions,72,1.9%,3744
+98168,2025,6,Employment & Income,122,3.3%,3744
+98168,2025,7,Clothing & Household,120,3.2%,3744
+98168,2025,8,Child Care & Parenting,26,<1%,3744
+98168,2025,9,Government & Legal,439,11.7%,3744
+98168,2025,10,Transportation Assistance,111,3.0%,3744
+98168,2025,11,Education,17,<1%,3744
+98168,2025,12,Disaster,129,3.4%,3744
+98168,2025,13,Other,473,12.6%,3744
+98170,2025,2,Housing & Shelter,1,50.0%,2
+98170,2025,3,Food,0,0%,2
+98170,2025,1,Utilities,0,0%,2
+98170,2025,4,Healthcare & COVID-19,0,0%,2
+98170,2025,5,Mental Health & Addictions,0,0%,2
+98170,2025,6,Employment & Income,0,0%,2
+98170,2025,7,Clothing & Household,0,0%,2
+98170,2025,8,Child Care & Parenting,0,0%,2
+98170,2025,9,Government & Legal,0,0%,2
+98170,2025,10,Transportation Assistance,1,50.0%,2
+98170,2025,11,Education,0,0%,2
+98170,2025,12,Disaster,0,0%,2
+98170,2025,13,Other,0,0%,2
+98174,2025,2,Housing & Shelter,0,0%,0
+98174,2025,3,Food,0,0%,0
+98174,2025,1,Utilities,0,0%,0
+98174,2025,4,Healthcare & COVID-19,0,0%,0
+98174,2025,5,Mental Health & Addictions,0,0%,0
+98174,2025,6,Employment & Income,0,0%,0
+98174,2025,7,Clothing & Household,0,0%,0
+98174,2025,8,Child Care & Parenting,0,0%,0
+98174,2025,9,Government & Legal,0,0%,0
+98174,2025,10,Transportation Assistance,0,0%,0
+98174,2025,11,Education,0,0%,0
+98174,2025,12,Disaster,0,0%,0
+98174,2025,13,Other,0,0%,0
+98175,2025,2,Housing & Shelter,1,50.0%,2
+98175,2025,3,Food,0,0%,2
+98175,2025,1,Utilities,0,0%,2
+98175,2025,4,Healthcare & COVID-19,0,0%,2
+98175,2025,5,Mental Health & Addictions,1,50.0%,2
+98175,2025,6,Employment & Income,0,0%,2
+98175,2025,7,Clothing & Household,0,0%,2
+98175,2025,8,Child Care & Parenting,0,0%,2
+98175,2025,9,Government & Legal,0,0%,2
+98175,2025,10,Transportation Assistance,0,0%,2
+98175,2025,11,Education,0,0%,2
+98175,2025,12,Disaster,0,0%,2
+98175,2025,13,Other,0,0%,2
+98177,2025,2,Housing & Shelter,100,23.7%,422
+98177,2025,3,Food,50,11.8%,422
+98177,2025,1,Utilities,33,7.8%,422
+98177,2025,4,Healthcare & COVID-19,44,10.4%,422
+98177,2025,5,Mental Health & Addictions,11,2.6%,422
+98177,2025,6,Employment & Income,21,5.0%,422
+98177,2025,7,Clothing & Household,11,2.6%,422
+98177,2025,8,Child Care & Parenting,3,<1%,422
+98177,2025,9,Government & Legal,76,18.0%,422
+98177,2025,10,Transportation Assistance,18,4.3%,422
+98177,2025,11,Education,1,<1%,422
+98177,2025,12,Disaster,8,1.9%,422
+98177,2025,13,Other,46,10.9%,422
+98178,2025,2,Housing & Shelter,790,28.3%,2792
+98178,2025,3,Food,381,13.6%,2792
+98178,2025,1,Utilities,374,13.4%,2792
+98178,2025,4,Healthcare & COVID-19,120,4.3%,2792
+98178,2025,5,Mental Health & Addictions,33,1.2%,2792
+98178,2025,6,Employment & Income,97,3.5%,2792
+98178,2025,7,Clothing & Household,82,2.9%,2792
+98178,2025,8,Child Care & Parenting,13,<1%,2792
+98178,2025,9,Government & Legal,342,12.2%,2792
+98178,2025,10,Transportation Assistance,91,3.3%,2792
+98178,2025,11,Education,9,<1%,2792
+98178,2025,12,Disaster,118,4.2%,2792
+98178,2025,13,Other,342,12.2%,2792
+98181,2025,2,Housing & Shelter,0,0%,0
+98181,2025,3,Food,0,0%,0
+98181,2025,1,Utilities,0,0%,0
+98181,2025,4,Healthcare & COVID-19,0,0%,0
+98181,2025,5,Mental Health & Addictions,0,0%,0
+98181,2025,6,Employment & Income,0,0%,0
+98181,2025,7,Clothing & Household,0,0%,0
+98181,2025,8,Child Care & Parenting,0,0%,0
+98181,2025,9,Government & Legal,0,0%,0
+98181,2025,10,Transportation Assistance,0,0%,0
+98181,2025,11,Education,0,0%,0
+98181,2025,12,Disaster,0,0%,0
+98181,2025,13,Other,0,0%,0
+98185,2025,2,Housing & Shelter,0,0%,4
+98185,2025,3,Food,0,0%,4
+98185,2025,1,Utilities,0,0%,4
+98185,2025,4,Healthcare & COVID-19,0,0%,4
+98185,2025,5,Mental Health & Addictions,0,0%,4
+98185,2025,6,Employment & Income,0,0%,4
+98185,2025,7,Clothing & Household,4,100.0%,4
+98185,2025,8,Child Care & Parenting,0,0%,4
+98185,2025,9,Government & Legal,0,0%,4
+98185,2025,10,Transportation Assistance,0,0%,4
+98185,2025,11,Education,0,0%,4
+98185,2025,12,Disaster,0,0%,4
+98185,2025,13,Other,0,0%,4
+98188,2025,2,Housing & Shelter,1536,31.6%,4857
+98188,2025,3,Food,580,11.9%,4857
+98188,2025,1,Utilities,555,11.4%,4857
+98188,2025,4,Healthcare & COVID-19,222,4.6%,4857
+98188,2025,5,Mental Health & Addictions,84,1.7%,4857
+98188,2025,6,Employment & Income,153,3.2%,4857
+98188,2025,7,Clothing & Household,118,2.4%,4857
+98188,2025,8,Child Care & Parenting,35,<1%,4857
+98188,2025,9,Government & Legal,528,10.9%,4857
+98188,2025,10,Transportation Assistance,152,3.1%,4857
+98188,2025,11,Education,19,<1%,4857
+98188,2025,12,Disaster,179,3.7%,4857
+98188,2025,13,Other,696,14.3%,4857
+98190,2025,2,Housing & Shelter,0,0%,0
+98190,2025,3,Food,0,0%,0
+98190,2025,1,Utilities,0,0%,0
+98190,2025,4,Healthcare & COVID-19,0,0%,0
+98190,2025,5,Mental Health & Addictions,0,0%,0
+98190,2025,6,Employment & Income,0,0%,0
+98190,2025,7,Clothing & Household,0,0%,0
+98190,2025,8,Child Care & Parenting,0,0%,0
+98190,2025,9,Government & Legal,0,0%,0
+98190,2025,10,Transportation Assistance,0,0%,0
+98190,2025,11,Education,0,0%,0
+98190,2025,12,Disaster,0,0%,0
+98190,2025,13,Other,0,0%,0
+98191,2025,2,Housing & Shelter,0,0%,0
+98191,2025,3,Food,0,0%,0
+98191,2025,1,Utilities,0,0%,0
+98191,2025,4,Healthcare & COVID-19,0,0%,0
+98191,2025,5,Mental Health & Addictions,0,0%,0
+98191,2025,6,Employment & Income,0,0%,0
+98191,2025,7,Clothing & Household,0,0%,0
+98191,2025,8,Child Care & Parenting,0,0%,0
+98191,2025,9,Government & Legal,0,0%,0
+98191,2025,10,Transportation Assistance,0,0%,0
+98191,2025,11,Education,0,0%,0
+98191,2025,12,Disaster,0,0%,0
+98191,2025,13,Other,0,0%,0
+98194,2025,2,Housing & Shelter,0,0%,0
+98194,2025,3,Food,0,0%,0
+98194,2025,1,Utilities,0,0%,0
+98194,2025,4,Healthcare & COVID-19,0,0%,0
+98194,2025,5,Mental Health & Addictions,0,0%,0
+98194,2025,6,Employment & Income,0,0%,0
+98194,2025,7,Clothing & Household,0,0%,0
+98194,2025,8,Child Care & Parenting,0,0%,0
+98194,2025,9,Government & Legal,0,0%,0
+98194,2025,10,Transportation Assistance,0,0%,0
+98194,2025,11,Education,0,0%,0
+98194,2025,12,Disaster,0,0%,0
+98194,2025,13,Other,0,0%,0
+98195,2025,2,Housing & Shelter,18,51.4%,35
+98195,2025,3,Food,0,0%,35
+98195,2025,1,Utilities,3,8.6%,35
+98195,2025,4,Healthcare & COVID-19,4,11.4%,35
+98195,2025,5,Mental Health & Addictions,0,0%,35
+98195,2025,6,Employment & Income,2,5.7%,35
+98195,2025,7,Clothing & Household,0,0%,35
+98195,2025,8,Child Care & Parenting,0,0%,35
+98195,2025,9,Government & Legal,2,5.7%,35
+98195,2025,10,Transportation Assistance,1,2.9%,35
+98195,2025,11,Education,0,0%,35
+98195,2025,12,Disaster,1,2.9%,35
+98195,2025,13,Other,4,11.4%,35
+98198,2025,2,Housing & Shelter,1179,30.6%,3857
+98198,2025,3,Food,483,12.5%,3857
+98198,2025,1,Utilities,463,12.0%,3857
+98198,2025,4,Healthcare & COVID-19,182,4.7%,3857
+98198,2025,5,Mental Health & Addictions,76,2.0%,3857
+98198,2025,6,Employment & Income,105,2.7%,3857
+98198,2025,7,Clothing & Household,92,2.4%,3857
+98198,2025,8,Child Care & Parenting,29,<1%,3857
+98198,2025,9,Government & Legal,498,12.9%,3857
+98198,2025,10,Transportation Assistance,103,2.7%,3857
+98198,2025,11,Education,15,<1%,3857
+98198,2025,12,Disaster,141,3.7%,3857
+98198,2025,13,Other,491,12.7%,3857
+98199,2025,2,Housing & Shelter,93,22.2%,419
+98199,2025,3,Food,43,10.3%,419
+98199,2025,1,Utilities,28,6.7%,419
+98199,2025,4,Healthcare & COVID-19,45,10.7%,419
+98199,2025,5,Mental Health & Addictions,15,3.6%,419
+98199,2025,6,Employment & Income,6,1.4%,419
+98199,2025,7,Clothing & Household,5,1.2%,419
+98199,2025,8,Child Care & Parenting,3,<1%,419
+98199,2025,9,Government & Legal,89,21.2%,419
+98199,2025,10,Transportation Assistance,17,4.1%,419
+98199,2025,11,Education,1,<1%,419
+98199,2025,12,Disaster,12,2.9%,419
+98199,2025,13,Other,62,14.8%,419
+98224,2025,2,Housing & Shelter,0,0%,19
+98224,2025,3,Food,3,15.8%,19
+98224,2025,1,Utilities,0,0%,19
+98224,2025,4,Healthcare & COVID-19,2,10.5%,19
+98224,2025,5,Mental Health & Addictions,0,0%,19
+98224,2025,6,Employment & Income,1,5.3%,19
+98224,2025,7,Clothing & Household,1,5.3%,19
+98224,2025,8,Child Care & Parenting,0,0%,19
+98224,2025,9,Government & Legal,3,15.8%,19
+98224,2025,10,Transportation Assistance,4,21.1%,19
+98224,2025,11,Education,1,5.3%,19
+98224,2025,12,Disaster,2,10.5%,19
+98224,2025,13,Other,2,10.5%,19
+98288,2025,2,Housing & Shelter,20,22.5%,89
+98288,2025,3,Food,16,18.0%,89
+98288,2025,1,Utilities,11,12.4%,89
+98288,2025,4,Healthcare & COVID-19,3,3.4%,89
+98288,2025,5,Mental Health & Addictions,0,0%,89
+98288,2025,6,Employment & Income,2,2.2%,89
+98288,2025,7,Clothing & Household,4,4.5%,89
+98288,2025,8,Child Care & Parenting,0,0%,89
+98288,2025,9,Government & Legal,9,10.1%,89
+98288,2025,10,Transportation Assistance,6,6.7%,89
+98288,2025,11,Education,0,0%,89
+98288,2025,12,Disaster,9,10.1%,89
+98288,2025,13,Other,9,10.1%,89
+98103,2025,2,Housing & Shelter,812,27.0%,3012
+98103,2025,3,Food,282,9.4%,3012
+98103,2025,1,Utilities,258,8.6%,3012
+98103,2025,4,Healthcare & COVID-19,141,4.7%,3012
+98103,2025,5,Mental Health & Addictions,73,2.4%,3012
+98103,2025,6,Employment & Income,78,2.6%,3012
+98103,2025,7,Clothing & Household,83,2.8%,3012
+98103,2025,8,Child Care & Parenting,20,<1%,3012
+98103,2025,9,Government & Legal,368,12.2%,3012
+98103,2025,10,Transportation Assistance,63,2.1%,3012
+98103,2025,11,Education,9,<1%,3012
+98103,2025,12,Disaster,86,2.9%,3012
+98103,2025,13,Other,739,24.5%,3012
+98422,2025,2,Housing & Shelter,144,36.4%,396
+98422,2025,3,Food,26,6.6%,396
+98422,2025,1,Utilities,64,16.2%,396
+98422,2025,4,Healthcare & COVID-19,17,4.3%,396
+98422,2025,5,Mental Health & Addictions,7,1.8%,396
+98422,2025,6,Employment & Income,21,5.3%,396
+98422,2025,7,Clothing & Household,9,2.3%,396
+98422,2025,8,Child Care & Parenting,4,1.0%,396
+98422,2025,9,Government & Legal,37,9.3%,396
+98422,2025,10,Transportation Assistance,13,3.3%,396
+98422,2025,11,Education,1,<1%,396
+98422,2025,12,Disaster,1,<1%,396
+98422,2025,13,Other,52,13.1%,396
+98354,2025,2,Housing & Shelter,72,33.3%,216
+98354,2025,3,Food,14,6.5%,216
+98354,2025,1,Utilities,23,10.6%,216
+98354,2025,4,Healthcare & COVID-19,16,7.4%,216
+98354,2025,5,Mental Health & Addictions,4,1.9%,216
+98354,2025,6,Employment & Income,7,3.2%,216
+98354,2025,7,Clothing & Household,2,<1%,216
+98354,2025,8,Child Care & Parenting,5,2.3%,216
+98354,2025,9,Government & Legal,24,11.1%,216
+98354,2025,10,Transportation Assistance,7,3.2%,216
+98354,2025,11,Education,1,<1%,216
+98354,2025,12,Disaster,4,1.9%,216
+98354,2025,13,Other,37,17.1%,216
