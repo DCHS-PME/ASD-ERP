@@ -11,6 +11,8 @@ library(ggplot2)
 library(tmap)
 library(htmlwidgets)
 
+source("./code/pme_colors.R")
+
 # Prevent tidyverse from printing garbage with read_csv
 options(readr.show_col_types = FALSE)
 
@@ -79,11 +81,15 @@ df_index <- sf_zips |>
 # the mean and normalize for index score
 
 norm <- function(x) {
-    (x - min(x, na.rm = T)) / (max(x, na.rm = T) - min(x, na.rm = T))
+    (x - min(x, na.rm = T)) / (max(x, na.rm = T) - min(x, na.rm = T)) 
 }
 
 z_score <- function(x){
     (x - mean(x, na.rm = TRUE)) / sd(x, na.rm = TRUE)
+}
+
+scaled_z <- function(x){
+    x/max(abs(x))
 }
 
 # Note components
@@ -103,7 +109,7 @@ calc_index <- function(dd, index_vars = index_components){
             mutate(across(!!(index_vars), z_score)) |>
             mutate(median_income = -1 * median_income) |>
             transmute(employment_index_z = rowMeans(across(!!(index_vars))),
-                    employment_index = norm(employment_index_z))
+                    employment_index = scaled_z(employment_index_z))
 
     dd <- cbind(dd, ind)
 
@@ -206,8 +212,16 @@ interactive_map <-
     tm_shape(sf_index) +
     tm_polygons(
         fill = "employment_index", 
-        fill.scale = tm_scale_intervals(values = "brewer.blues"),
+        fill.scale = tm_scale_intervals(
+            values = load_diverging_colors("blue_pink"),
+            breaks = c(-1, -0.5, -0.25, -0.01, 0.01, 0.25, 0.5, 1),
+            value.na = load_qual_colors('background')[[1]],
+            midpoint = 0),
         fill_alpha = 0.7,
+        fill.legend = tm_legend(
+            title = "Employment Index",
+            label.style = 'discrete'
+        ),
         
         id = 'employment_index',
         
@@ -217,7 +231,7 @@ interactive_map <-
      ) +
     tm_shape(sf_providers) +
     tm_dots(
-        fill = 'red', 
+        fill = load_qual_colors('primary')[[5]],
         size = 0.7, 
 
         id = "provider_organization",
