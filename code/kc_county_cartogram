@@ -1,0 +1,24 @@
+# Playing around with a cartogram to better display results
+# Max Griswold
+# 7/8/2026
+
+rm(list = ls())
+
+library(sf)
+library(geogrid)
+library(ggplot2)
+library(PMEtools)
+library(tidyverse)
+
+kc_zips <- get_geo_sf("zip5") |> st_make_valid()
+
+# Generate the regular grid (squares)
+
+new_cells <- calculate_grid(shape = kc_zips, grid_type = "regular", seed = 42)
+kc_grid <- assign_polygons(kc_zips, new_cells)
+
+ggplot() +
+  geom_sf(data = kc_grid, fill = 'lightblue', color = "white") +
+  geom_sf_text(data = kc_grid, aes(label = zipcode), size = 3, color = "black") +
+  theme_void() +
+  theme(legend.position = "bottom")

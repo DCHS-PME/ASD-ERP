@@ -91,11 +91,24 @@ index_components <- c("percent_unemployed", "percent_poverty_150", "severe_housi
 
 calc_index <- function(dd, index_vars = index_components){
 
-    dd |>
-        mutate(across(!!(index_vars), z_score)) |>
-        mutate(median_income = -1 * median_income) |>
-        mutate(employment_index_z = rowMeans(across(!!(index_vars))),
-                employment_index = norm(employment_index_z))
+    # I'm being a little goofy about the implementation here but
+    # given difficulty to quickly refactor, I'm calculating z-scores
+    # for each variable in real time, then creating index and
+    # appending them on.
+
+    # In the future, I would like to create z-score for each variable
+    # and return them directly. 
+
+    ind <- dd |>
+            mutate(across(!!(index_vars), z_score)) |>
+            mutate(median_income = -1 * median_income) |>
+            transmute(employment_index_z = rowMeans(across(!!(index_vars))),
+                    employment_index = norm(employment_index_z))
+
+    dd <- cbind(dd, ind)
+
+    return(dd)
+
 }
 
 # Calculate z-scores for each index component, invert the interpretation for median income,
