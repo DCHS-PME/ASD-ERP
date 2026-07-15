@@ -1,0 +1,21 @@
+rm(list = ls())
+
+library(sf)
+library(tidyverse)
+library(geofacet)   
+library(PMEtools)
+
+kc_zips <- get_geo_sf("zip5") |>
+  st_make_valid() |>
+  st_transform(32148)
+ 
+id_col <- "zipcode"
+
+grid0 <- grid_auto(kc_zips, names = id_col, codes = id_col, seed = 42)
+ 
+grid_preview(grid0, label = "name_zipcode")
+
+grid1 <- grid0                          
+write_csv(grid1, "./data/cartogram_kc_zip.csv")
+
+grid_design(data = grid_plain, label = 'code_zipcode')
