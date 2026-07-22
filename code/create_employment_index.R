@@ -195,9 +195,9 @@ sf_index <- left_join(sf_bg, df_index_block) |>
 
 # Plot figures
 sf_providers <- st_as_sf(df_providers, 
-                         coords = c("location.x", "location.y"), 
+                         coords = c("lon", "lat"), 
                          crs = 4326) |>
-                filter(location_type == "Services" & mode_in_office == "Yes")
+                filter(location_type == "Services" & mode_in_office == T)
 
 static_map <- ggplot() +
                 geom_sf(data = sf_index, aes(fill = employment_index), alpha = 0.6) +
@@ -234,9 +234,9 @@ interactive_map <-
         fill = load_qual_colors('primary')[[5]],
         size = 0.7, 
 
-        id = "provider_organization",
+        id = "provider_name",
             
-        popup = tm_popup(vars = c("program_name", "street_address_1"))
+        popup = tm_popup(vars = c("program_name", "strategy"))
     ) 
 
 leaflet_map <- tmap_leaflet(interactive_map)
